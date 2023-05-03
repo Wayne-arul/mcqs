@@ -1,0 +1,2982 @@
+<!DOCTYPE html>
+<html dir='ltr' lang='en'>
+<head>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<title>18-01-2022 Answers</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<!-- Chrome, Firefox OS and Opera -->
+<meta content='#eaeaea' name='theme-color'/>
+<!-- Windows Phone -->
+<meta content='#eaeaea' name='msapplication-navbutton-color'/>
+<meta content='blogger' name='generator'/>
+<link href='https://skillmcqanswers.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="MCQ Answers - Atom" href="https://skillmcqanswers.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="MCQ Answers - RSS" href="https://skillmcqanswers.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="MCQ Answers - Atom" href="https://www.blogger.com/feeds/161143313025306101/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="MCQ Answers - Atom" href="https://skillmcqanswers.blogspot.com/feeds/2657492490282019553/comments/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html' property='og:url'/>
+<meta content='18-01-2022 Answers' property='og:title'/>
+<meta content='' property='og:description'/>
+<style type='text/css'>@font-face{font-family:'Roboto';font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),local('sans-serif-light'),url(//fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTYl4BOQ3o.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),local('sans-serif-light'),url(//fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTYl4BOQ3o.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),local('sans-serif-light'),url(//fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTYl4BOQ3o.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),local('sans-serif-light'),url(//fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTYl4BOQ3o.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),local('sans-serif-light'),url(//fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTYl4BOQ3o.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),local('sans-serif-light'),url(//fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTYl4BOQ3o.woff2)format('woff2');unicode-range:U+0100-02AF,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:italic;font-weight:300;src:local('Roboto Light Italic'),local('Roboto-LightItalic'),local('sans-serif-light'),url(//fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2)format('woff2');unicode-range:U+0100-02AF,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto'),local('Roboto-Regular'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2)format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2)format('woff2');unicode-range:U+0100-02AF,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),local('sans-serif'),url(//fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style>
+<style id='page-skin-1' type='text/css'><!--
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+/*!************************************************
+* Blogger Template Style
+* Name: Contempo
+**************************************************/
+body{
+overflow-wrap:break-word;
+word-break:break-word;
+word-wrap:break-word
+}
+.hidden{
+display:none
+}
+.invisible{
+visibility:hidden
+}
+.container::after,.float-container::after{
+clear:both;
+content:"";
+display:table
+}
+.clearboth{
+clear:both
+}
+#comments .comment .comment-actions,.subscribe-popup .FollowByEmail .follow-by-email-submit,.widget.Profile .profile-link,.widget.Profile .profile-link.visit-profile{
+background:0 0;
+border:0;
+box-shadow:none;
+color:#f03f0d;
+cursor:pointer;
+font-size:14px;
+font-weight:700;
+outline:0;
+text-decoration:none;
+text-transform:uppercase;
+width:auto
+}
+.dim-overlay{
+background-color:rgba(0,0,0,.54);
+height:100vh;
+left:0;
+position:fixed;
+top:0;
+width:100%
+}
+#sharing-dim-overlay{
+background-color:transparent
+}
+input::-ms-clear{
+display:none
+}
+.blogger-logo,.svg-icon-24.blogger-logo{
+fill:#ff9800;
+opacity:1
+}
+.loading-spinner-large{
+-webkit-animation:mspin-rotate 1.568s infinite linear;
+animation:mspin-rotate 1.568s infinite linear;
+height:48px;
+overflow:hidden;
+position:absolute;
+width:48px;
+z-index:200
+}
+.loading-spinner-large>div{
+-webkit-animation:mspin-revrot 5332ms infinite steps(4);
+animation:mspin-revrot 5332ms infinite steps(4)
+}
+.loading-spinner-large>div>div{
+-webkit-animation:mspin-singlecolor-large-film 1333ms infinite steps(81);
+animation:mspin-singlecolor-large-film 1333ms infinite steps(81);
+background-size:100%;
+height:48px;
+width:3888px
+}
+.mspin-black-large>div>div,.mspin-grey_54-large>div>div{
+background-image:url(https://www.blogblog.com/indie/mspin_black_large.svg)
+}
+.mspin-white-large>div>div{
+background-image:url(https://www.blogblog.com/indie/mspin_white_large.svg)
+}
+.mspin-grey_54-large{
+opacity:.54
+}
+@-webkit-keyframes mspin-singlecolor-large-film{
+from{
+-webkit-transform:translateX(0);
+transform:translateX(0)
+}
+to{
+-webkit-transform:translateX(-3888px);
+transform:translateX(-3888px)
+}
+}
+@keyframes mspin-singlecolor-large-film{
+from{
+-webkit-transform:translateX(0);
+transform:translateX(0)
+}
+to{
+-webkit-transform:translateX(-3888px);
+transform:translateX(-3888px)
+}
+}
+@-webkit-keyframes mspin-rotate{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(360deg);
+transform:rotate(360deg)
+}
+}
+@keyframes mspin-rotate{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(360deg);
+transform:rotate(360deg)
+}
+}
+@-webkit-keyframes mspin-revrot{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(-360deg);
+transform:rotate(-360deg)
+}
+}
+@keyframes mspin-revrot{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(-360deg);
+transform:rotate(-360deg)
+}
+}
+.skip-navigation{
+background-color:#fff;
+box-sizing:border-box;
+color:#000;
+display:block;
+height:0;
+left:0;
+line-height:50px;
+overflow:hidden;
+padding-top:0;
+position:fixed;
+text-align:center;
+top:0;
+-webkit-transition:box-shadow .3s,height .3s,padding-top .3s;
+transition:box-shadow .3s,height .3s,padding-top .3s;
+width:100%;
+z-index:900
+}
+.skip-navigation:focus{
+box-shadow:0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2);
+height:50px
+}
+#main{
+outline:0
+}
+.main-heading{
+position:absolute;
+clip:rect(1px,1px,1px,1px);
+padding:0;
+border:0;
+height:1px;
+width:1px;
+overflow:hidden
+}
+.Attribution{
+margin-top:1em;
+text-align:center
+}
+.Attribution .blogger img,.Attribution .blogger svg{
+vertical-align:bottom
+}
+.Attribution .blogger img{
+margin-right:.5em
+}
+.Attribution div{
+line-height:24px;
+margin-top:.5em
+}
+.Attribution .copyright,.Attribution .image-attribution{
+font-size:.7em;
+margin-top:1.5em
+}
+.BLOG_mobile_video_class{
+display:none
+}
+.bg-photo{
+background-attachment:scroll!important
+}
+body .CSS_LIGHTBOX{
+z-index:900
+}
+.extendable .show-less,.extendable .show-more{
+border-color:#f03f0d;
+color:#f03f0d;
+margin-top:8px
+}
+.extendable .show-less.hidden,.extendable .show-more.hidden{
+display:none
+}
+.inline-ad{
+display:none;
+max-width:100%;
+overflow:hidden
+}
+.adsbygoogle{
+display:block
+}
+#cookieChoiceInfo{
+bottom:0;
+top:auto
+}
+iframe.b-hbp-video{
+border:0
+}
+.post-body img{
+max-width:100%
+}
+.post-body iframe{
+max-width:100%
+}
+.post-body a[imageanchor="1"]{
+display:inline-block
+}
+.byline{
+margin-right:1em
+}
+.byline:last-child{
+margin-right:0
+}
+.link-copied-dialog{
+max-width:520px;
+outline:0
+}
+.link-copied-dialog .modal-dialog-buttons{
+margin-top:8px
+}
+.link-copied-dialog .goog-buttonset-default{
+background:0 0;
+border:0
+}
+.link-copied-dialog .goog-buttonset-default:focus{
+outline:0
+}
+.paging-control-container{
+margin-bottom:16px
+}
+.paging-control-container .paging-control{
+display:inline-block
+}
+.paging-control-container .comment-range-text::after,.paging-control-container .paging-control{
+color:#f03f0d
+}
+.paging-control-container .comment-range-text,.paging-control-container .paging-control{
+margin-right:8px
+}
+.paging-control-container .comment-range-text::after,.paging-control-container .paging-control::after{
+content:"\b7";
+cursor:default;
+padding-left:8px;
+pointer-events:none
+}
+.paging-control-container .comment-range-text:last-child::after,.paging-control-container .paging-control:last-child::after{
+content:none
+}
+.byline.reactions iframe{
+height:20px
+}
+.b-notification{
+color:#000;
+background-color:#fff;
+border-bottom:solid 1px #000;
+box-sizing:border-box;
+padding:16px 32px;
+text-align:center
+}
+.b-notification.visible{
+-webkit-transition:margin-top .3s cubic-bezier(.4,0,.2,1);
+transition:margin-top .3s cubic-bezier(.4,0,.2,1)
+}
+.b-notification.invisible{
+position:absolute
+}
+.b-notification-close{
+position:absolute;
+right:8px;
+top:8px
+}
+.no-posts-message{
+line-height:40px;
+text-align:center
+}
+@media screen and (max-width:800px){
+body.item-view .post-body a[imageanchor="1"][style*="float: left;"],body.item-view .post-body a[imageanchor="1"][style*="float: right;"]{
+float:none!important;
+clear:none!important
+}
+body.item-view .post-body a[imageanchor="1"] img{
+display:block;
+height:auto;
+margin:0 auto
+}
+body.item-view .post-body>.separator:first-child>a[imageanchor="1"]:first-child{
+margin-top:20px
+}
+.post-body a[imageanchor]{
+display:block
+}
+body.item-view .post-body a[imageanchor="1"]{
+margin-left:0!important;
+margin-right:0!important
+}
+body.item-view .post-body a[imageanchor="1"]+a[imageanchor="1"]{
+margin-top:16px
+}
+}
+.item-control{
+display:none
+}
+#comments{
+border-top:1px dashed rgba(0,0,0,.54);
+margin-top:20px;
+padding:20px
+}
+#comments .comment-thread ol{
+margin:0;
+padding-left:0;
+padding-left:0
+}
+#comments .comment .comment-replybox-single,#comments .comment-thread .comment-replies{
+margin-left:60px
+}
+#comments .comment-thread .thread-count{
+display:none
+}
+#comments .comment{
+list-style-type:none;
+padding:0 0 30px;
+position:relative
+}
+#comments .comment .comment{
+padding-bottom:8px
+}
+.comment .avatar-image-container{
+position:absolute
+}
+.comment .avatar-image-container img{
+border-radius:50%
+}
+.avatar-image-container svg,.comment .avatar-image-container .avatar-icon{
+border-radius:50%;
+border:solid 1px #5d5d5d;
+box-sizing:border-box;
+fill:#5d5d5d;
+height:35px;
+margin:0;
+padding:7px;
+width:35px
+}
+.comment .comment-block{
+margin-top:10px;
+margin-left:60px;
+padding-bottom:0
+}
+#comments .comment-author-header-wrapper{
+margin-left:40px
+}
+#comments .comment .thread-expanded .comment-block{
+padding-bottom:20px
+}
+#comments .comment .comment-header .user,#comments .comment .comment-header .user a{
+color:#000000;
+font-style:normal;
+font-weight:700
+}
+#comments .comment .comment-actions{
+bottom:0;
+margin-bottom:15px;
+position:absolute
+}
+#comments .comment .comment-actions>*{
+margin-right:8px
+}
+#comments .comment .comment-header .datetime{
+bottom:0;
+color:rgba(0,0,0,.54);
+display:inline-block;
+font-size:13px;
+font-style:italic;
+margin-left:8px
+}
+#comments .comment .comment-footer .comment-timestamp a,#comments .comment .comment-header .datetime a{
+color:rgba(0,0,0,.54)
+}
+#comments .comment .comment-content,.comment .comment-body{
+margin-top:12px;
+word-break:break-word
+}
+.comment-body{
+margin-bottom:12px
+}
+#comments.embed[data-num-comments="0"]{
+border:0;
+margin-top:0;
+padding-top:0
+}
+#comments.embed[data-num-comments="0"] #comment-post-message,#comments.embed[data-num-comments="0"] div.comment-form>p,#comments.embed[data-num-comments="0"] p.comment-footer{
+display:none
+}
+#comment-editor-src{
+display:none
+}
+.comments .comments-content .loadmore.loaded{
+max-height:0;
+opacity:0;
+overflow:hidden
+}
+.extendable .remaining-items{
+height:0;
+overflow:hidden;
+-webkit-transition:height .3s cubic-bezier(.4,0,.2,1);
+transition:height .3s cubic-bezier(.4,0,.2,1)
+}
+.extendable .remaining-items.expanded{
+height:auto
+}
+.svg-icon-24,.svg-icon-24-button{
+cursor:pointer;
+height:24px;
+width:24px;
+min-width:24px
+}
+.touch-icon{
+margin:-12px;
+padding:12px
+}
+.touch-icon:active,.touch-icon:focus{
+background-color:rgba(153,153,153,.4);
+border-radius:50%
+}
+svg:not(:root).touch-icon{
+overflow:visible
+}
+html[dir=rtl] .rtl-reversible-icon{
+-webkit-transform:scaleX(-1);
+-ms-transform:scaleX(-1);
+transform:scaleX(-1)
+}
+.svg-icon-24-button,.touch-icon-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0
+}
+.touch-icon-button .touch-icon:active,.touch-icon-button .touch-icon:focus{
+background-color:transparent
+}
+.touch-icon-button:active .touch-icon,.touch-icon-button:focus .touch-icon{
+background-color:rgba(153,153,153,.4);
+border-radius:50%
+}
+.Profile .default-avatar-wrapper .avatar-icon{
+border-radius:50%;
+border:solid 1px #5d5d5d;
+box-sizing:border-box;
+fill:#5d5d5d;
+margin:0
+}
+.Profile .individual .default-avatar-wrapper .avatar-icon{
+padding:25px
+}
+.Profile .individual .avatar-icon,.Profile .individual .profile-img{
+height:120px;
+width:120px
+}
+.Profile .team .default-avatar-wrapper .avatar-icon{
+padding:8px
+}
+.Profile .team .avatar-icon,.Profile .team .default-avatar-wrapper,.Profile .team .profile-img{
+height:40px;
+width:40px
+}
+.snippet-container{
+margin:0;
+position:relative;
+overflow:hidden
+}
+.snippet-fade{
+bottom:0;
+box-sizing:border-box;
+position:absolute;
+width:96px
+}
+.snippet-fade{
+right:0
+}
+.snippet-fade:after{
+content:"\2026"
+}
+.snippet-fade:after{
+float:right
+}
+.post-bottom{
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap
+}
+.post-footer{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+-webkit-box-ordinal-group:2;
+-webkit-order:1;
+-ms-flex-order:1;
+order:1
+}
+.post-footer>*{
+-webkit-box-flex:0;
+-webkit-flex:0 1 auto;
+-ms-flex:0 1 auto;
+flex:0 1 auto
+}
+.post-footer .byline:last-child{
+margin-right:1em
+}
+.jump-link{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+-webkit-box-ordinal-group:3;
+-webkit-order:2;
+-ms-flex-order:2;
+order:2
+}
+.centered-top-container.sticky{
+left:0;
+position:fixed;
+right:0;
+top:0;
+width:auto;
+z-index:50;
+-webkit-transition-property:opacity,-webkit-transform;
+transition-property:opacity,-webkit-transform;
+transition-property:transform,opacity;
+transition-property:transform,opacity,-webkit-transform;
+-webkit-transition-duration:.2s;
+transition-duration:.2s;
+-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
+transition-timing-function:cubic-bezier(.4,0,.2,1)
+}
+.centered-top-placeholder{
+display:none
+}
+.collapsed-header .centered-top-placeholder{
+display:block
+}
+.centered-top-container .Header .replaced h1,.centered-top-placeholder .Header .replaced h1{
+display:none
+}
+.centered-top-container.sticky .Header .replaced h1{
+display:block
+}
+.centered-top-container.sticky .Header .header-widget{
+background:0 0
+}
+.centered-top-container.sticky .Header .header-image-wrapper{
+display:none
+}
+.centered-top-container img,.centered-top-placeholder img{
+max-width:100%
+}
+.collapsible{
+-webkit-transition:height .3s cubic-bezier(.4,0,.2,1);
+transition:height .3s cubic-bezier(.4,0,.2,1)
+}
+.collapsible,.collapsible>summary{
+display:block;
+overflow:hidden
+}
+.collapsible>:not(summary){
+display:none
+}
+.collapsible[open]>:not(summary){
+display:block
+}
+.collapsible:focus,.collapsible>summary:focus{
+outline:0
+}
+.collapsible>summary{
+cursor:pointer;
+display:block;
+padding:0
+}
+.collapsible:focus>summary,.collapsible>summary:focus{
+background-color:transparent
+}
+.collapsible>summary::-webkit-details-marker{
+display:none
+}
+.collapsible-title{
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+.collapsible-title .title{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+-webkit-box-ordinal-group:1;
+-webkit-order:0;
+-ms-flex-order:0;
+order:0;
+overflow:hidden;
+text-overflow:ellipsis;
+white-space:nowrap
+}
+.collapsible-title .chevron-down,.collapsible[open] .collapsible-title .chevron-up{
+display:block
+}
+.collapsible-title .chevron-up,.collapsible[open] .collapsible-title .chevron-down{
+display:none
+}
+.flat-button{
+cursor:pointer;
+display:inline-block;
+font-weight:700;
+text-transform:uppercase;
+border-radius:2px;
+padding:8px;
+margin:-8px
+}
+.flat-icon-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+margin:-12px;
+padding:12px;
+cursor:pointer;
+box-sizing:content-box;
+display:inline-block;
+line-height:0
+}
+.flat-icon-button,.flat-icon-button .splash-wrapper{
+border-radius:50%
+}
+.flat-icon-button .splash.animate{
+-webkit-animation-duration:.3s;
+animation-duration:.3s
+}
+.overflowable-container{
+max-height:46px;
+overflow:hidden;
+position:relative
+}
+.overflow-button{
+cursor:pointer
+}
+#overflowable-dim-overlay{
+background:0 0
+}
+.overflow-popup{
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+background-color:#ffffff;
+left:0;
+max-width:calc(100% - 32px);
+position:absolute;
+top:0;
+visibility:hidden;
+z-index:101
+}
+.overflow-popup ul{
+list-style:none
+}
+.overflow-popup .tabs li,.overflow-popup li{
+display:block;
+height:auto
+}
+.overflow-popup .tabs li{
+padding-left:0;
+padding-right:0
+}
+.overflow-button.hidden,.overflow-popup .tabs li.hidden,.overflow-popup li.hidden{
+display:none
+}
+.pill-button{
+background:0 0;
+border:1px solid;
+border-radius:12px;
+cursor:pointer;
+display:inline-block;
+padding:4px 16px;
+text-transform:uppercase
+}
+.ripple{
+position:relative
+}
+.ripple>*{
+z-index:1
+}
+.splash-wrapper{
+bottom:0;
+left:0;
+overflow:hidden;
+pointer-events:none;
+position:absolute;
+right:0;
+top:0;
+z-index:0
+}
+.splash{
+background:#ccc;
+border-radius:100%;
+display:block;
+opacity:.6;
+position:absolute;
+-webkit-transform:scale(0);
+-ms-transform:scale(0);
+transform:scale(0)
+}
+.splash.animate{
+-webkit-animation:ripple-effect .4s linear;
+animation:ripple-effect .4s linear
+}
+@-webkit-keyframes ripple-effect{
+100%{
+opacity:0;
+-webkit-transform:scale(2.5);
+transform:scale(2.5)
+}
+}
+@keyframes ripple-effect{
+100%{
+opacity:0;
+-webkit-transform:scale(2.5);
+transform:scale(2.5)
+}
+}
+.search{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+line-height:24px;
+width:24px
+}
+.search.focused{
+width:100%
+}
+.search.focused .section{
+width:100%
+}
+.search form{
+z-index:101
+}
+.search h3{
+display:none
+}
+.search form{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-flex:1;
+-webkit-flex:1 0 0;
+-ms-flex:1 0 0px;
+flex:1 0 0;
+border-bottom:solid 1px transparent;
+padding-bottom:8px
+}
+.search form>*{
+display:none
+}
+.search.focused form>*{
+display:block
+}
+.search .search-input label{
+display:none
+}
+.centered-top-placeholder.cloned .search form{
+z-index:30
+}
+.search.focused form{
+border-color:#ffffff;
+position:relative;
+width:auto
+}
+.collapsed-header .centered-top-container .search.focused form{
+border-bottom-color:transparent
+}
+.search-expand{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.search-expand-text{
+display:none
+}
+.search-close{
+display:inline;
+vertical-align:middle
+}
+.search-input{
+-webkit-box-flex:1;
+-webkit-flex:1 0 1px;
+-ms-flex:1 0 1px;
+flex:1 0 1px
+}
+.search-input input{
+background:0 0;
+border:0;
+box-sizing:border-box;
+color:#ffffff;
+display:inline-block;
+outline:0;
+width:calc(100% - 48px)
+}
+.search-input input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #ffffff
+}
+.collapsed-header .centered-top-container .search-action,.collapsed-header .centered-top-container .search-input input{
+color:#000000
+}
+.collapsed-header .centered-top-container .search-input input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #000000
+}
+.collapsed-header .centered-top-container .search-input input.no-cursor:focus,.search-input input.no-cursor:focus{
+outline:0
+}
+.search-focused>*{
+visibility:hidden
+}
+.search-focused .search,.search-focused .search-icon{
+visibility:visible
+}
+.search.focused .search-action{
+display:block
+}
+.search.focused .search-action:disabled{
+opacity:.3
+}
+.widget.Sharing .sharing-button{
+display:none
+}
+.widget.Sharing .sharing-buttons li{
+padding:0
+}
+.widget.Sharing .sharing-buttons li span{
+display:none
+}
+.post-share-buttons{
+position:relative
+}
+.centered-bottom .share-buttons .svg-icon-24,.share-buttons .svg-icon-24{
+fill:#000000
+}
+.sharing-open.touch-icon-button:active .touch-icon,.sharing-open.touch-icon-button:focus .touch-icon{
+background-color:transparent
+}
+.share-buttons{
+background-color:#ffffff;
+border-radius:2px;
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+color:#000000;
+list-style:none;
+margin:0;
+padding:8px 0;
+position:absolute;
+top:-11px;
+min-width:200px;
+z-index:101
+}
+.share-buttons.hidden{
+display:none
+}
+.sharing-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+cursor:pointer
+}
+.share-buttons li{
+margin:0;
+height:48px
+}
+.share-buttons li:last-child{
+margin-bottom:0
+}
+.share-buttons li .sharing-platform-button{
+box-sizing:border-box;
+cursor:pointer;
+display:block;
+height:100%;
+margin-bottom:0;
+padding:0 16px;
+position:relative;
+width:100%
+}
+.share-buttons li .sharing-platform-button:focus,.share-buttons li .sharing-platform-button:hover{
+background-color:rgba(128,128,128,.1);
+outline:0
+}
+.share-buttons li svg[class*=" sharing-"],.share-buttons li svg[class^=sharing-]{
+position:absolute;
+top:10px
+}
+.share-buttons li span.sharing-platform-button{
+position:relative;
+top:0
+}
+.share-buttons li .platform-sharing-text{
+display:block;
+font-size:16px;
+line-height:48px;
+white-space:nowrap
+}
+.share-buttons li .platform-sharing-text{
+margin-left:56px
+}
+.sidebar-container{
+background-color:#ffffff;
+max-width:284px;
+overflow-y:auto;
+-webkit-transition-property:-webkit-transform;
+transition-property:-webkit-transform;
+transition-property:transform;
+transition-property:transform,-webkit-transform;
+-webkit-transition-duration:.3s;
+transition-duration:.3s;
+-webkit-transition-timing-function:cubic-bezier(0,0,.2,1);
+transition-timing-function:cubic-bezier(0,0,.2,1);
+width:284px;
+z-index:101;
+-webkit-overflow-scrolling:touch
+}
+.sidebar-container .navigation{
+line-height:0;
+padding:16px
+}
+.sidebar-container .sidebar-back{
+cursor:pointer
+}
+.sidebar-container .widget{
+background:0 0;
+margin:0 16px;
+padding:16px 0
+}
+.sidebar-container .widget .title{
+color:#000000;
+margin:0
+}
+.sidebar-container .widget ul{
+list-style:none;
+margin:0;
+padding:0
+}
+.sidebar-container .widget ul ul{
+margin-left:1em
+}
+.sidebar-container .widget li{
+font-size:16px;
+line-height:normal
+}
+.sidebar-container .widget+.widget{
+border-top:1px dashed #c7c7c7
+}
+.BlogArchive li{
+margin:16px 0
+}
+.BlogArchive li:last-child{
+margin-bottom:0
+}
+.Label li a{
+display:inline-block
+}
+.BlogArchive .post-count,.Label .label-count{
+float:right;
+margin-left:.25em
+}
+.BlogArchive .post-count::before,.Label .label-count::before{
+content:"("
+}
+.BlogArchive .post-count::after,.Label .label-count::after{
+content:")"
+}
+.widget.Translate .skiptranslate>div{
+display:block!important
+}
+.widget.Profile .profile-link{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+.widget.Profile .team-member .default-avatar-wrapper,.widget.Profile .team-member .profile-img{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+margin-right:1em
+}
+.widget.Profile .individual .profile-link{
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column
+}
+.widget.Profile .team .profile-link .profile-name{
+-webkit-align-self:center;
+-ms-flex-item-align:center;
+align-self:center;
+display:block;
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto
+}
+.dim-overlay{
+background-color:rgba(0,0,0,.54);
+z-index:100
+}
+body.sidebar-visible{
+overflow-y:hidden
+}
+@media screen and (max-width:1439px){
+.sidebar-container{
+bottom:0;
+position:fixed;
+top:0;
+left:0;
+right:auto
+}
+.sidebar-container.sidebar-invisible{
+-webkit-transition-timing-function:cubic-bezier(.4,0,.6,1);
+transition-timing-function:cubic-bezier(.4,0,.6,1);
+-webkit-transform:translateX(-284px);
+-ms-transform:translateX(-284px);
+transform:translateX(-284px)
+}
+}
+@media screen and (min-width:1440px){
+.sidebar-container{
+position:absolute;
+top:0;
+left:0;
+right:auto
+}
+.sidebar-container .navigation{
+display:none
+}
+}
+.dialog{
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+background:#ffffff;
+box-sizing:border-box;
+color:#646464;
+padding:30px;
+position:fixed;
+text-align:center;
+width:calc(100% - 24px);
+z-index:101
+}
+.dialog input[type=email],.dialog input[type=text]{
+background-color:transparent;
+border:0;
+border-bottom:solid 1px rgba(100,100,100,.12);
+color:#646464;
+display:block;
+font-family:Roboto, sans-serif;
+font-size:16px;
+line-height:24px;
+margin:auto;
+padding-bottom:7px;
+outline:0;
+text-align:center;
+width:100%
+}
+.dialog input[type=email]::-webkit-input-placeholder,.dialog input[type=text]::-webkit-input-placeholder{
+color:#646464
+}
+.dialog input[type=email]::-moz-placeholder,.dialog input[type=text]::-moz-placeholder{
+color:#646464
+}
+.dialog input[type=email]:-ms-input-placeholder,.dialog input[type=text]:-ms-input-placeholder{
+color:#646464
+}
+.dialog input[type=email]::-ms-input-placeholder,.dialog input[type=text]::-ms-input-placeholder{
+color:#646464
+}
+.dialog input[type=email]::placeholder,.dialog input[type=text]::placeholder{
+color:#646464
+}
+.dialog input[type=email]:focus,.dialog input[type=text]:focus{
+border-bottom:solid 2px #f03f0d;
+padding-bottom:6px
+}
+.dialog input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #646464
+}
+.dialog input.no-cursor:focus{
+outline:0
+}
+.dialog input.no-cursor:focus{
+outline:0
+}
+.dialog input[type=submit]{
+font-family:Roboto, sans-serif
+}
+.dialog .goog-buttonset-default{
+color:#f03f0d
+}
+.subscribe-popup{
+max-width:364px
+}
+.subscribe-popup h3{
+color:#000000;
+font-size:1.8em;
+margin-top:0
+}
+.subscribe-popup .FollowByEmail h3{
+display:none
+}
+.subscribe-popup .FollowByEmail .follow-by-email-submit{
+color:#f03f0d;
+display:inline-block;
+margin:0 auto;
+margin-top:24px;
+width:auto;
+white-space:normal
+}
+.subscribe-popup .FollowByEmail .follow-by-email-submit:disabled{
+cursor:default;
+opacity:.3
+}
+@media (max-width:800px){
+.blog-name div.widget.Subscribe{
+margin-bottom:16px
+}
+body.item-view .blog-name div.widget.Subscribe{
+margin:8px auto 16px auto;
+width:100%
+}
+}
+.tabs{
+list-style:none
+}
+.tabs li{
+display:inline-block
+}
+.tabs li a{
+cursor:pointer;
+display:inline-block;
+font-weight:700;
+text-transform:uppercase;
+padding:12px 8px
+}
+.tabs .selected{
+border-bottom:4px solid #ffffff
+}
+.tabs .selected a{
+color:#ffffff
+}
+body#layout .bg-photo,body#layout .bg-photo-overlay{
+display:none
+}
+body#layout .page_body{
+padding:0;
+position:relative;
+top:0
+}
+body#layout .page{
+display:inline-block;
+left:inherit;
+position:relative;
+vertical-align:top;
+width:540px
+}
+body#layout .centered{
+max-width:954px
+}
+body#layout .navigation{
+display:none
+}
+body#layout .sidebar-container{
+display:inline-block;
+width:40%
+}
+body#layout .hamburger-menu,body#layout .search{
+display:none
+}
+.centered-top-container .svg-icon-24,body.collapsed-header .centered-top-placeholder .svg-icon-24{
+fill:#ffffff
+}
+.sidebar-container .svg-icon-24{
+fill:#5d5d5d
+}
+.centered-bottom .svg-icon-24,body.collapsed-header .centered-top-container .svg-icon-24{
+fill:#5d5d5d
+}
+.centered-bottom .share-buttons .svg-icon-24,.share-buttons .svg-icon-24{
+fill:#000000
+}
+body{
+background-color:#eaeaea;
+color:#646464;
+font:15px Roboto, sans-serif;
+margin:0;
+min-height:100vh
+}
+img{
+max-width:100%
+}
+h3{
+color:#646464;
+font-size:16px
+}
+a{
+text-decoration:none;
+color:#f03f0d
+}
+a:visited{
+color:#f03f0d
+}
+a:hover{
+color:#f03f0d
+}
+blockquote{
+color:#000000;
+font:italic 300 15px Roboto, sans-serif;
+font-size:x-large;
+text-align:center
+}
+.pill-button{
+font-size:12px
+}
+.bg-photo-container{
+height:480px;
+overflow:hidden;
+position:absolute;
+width:100%;
+z-index:1
+}
+.bg-photo{
+background:#513831 url(https://themes.googleusercontent.com/image?id=1KH22PlFqsiVYxboQNAoJjYmRbw5M4REHmdJbHT5M2x9zVMGrCqwSjZvaQW_A10KPc6Il) repeat-y scroll top center /* Credit: luoman (http://www.istockphoto.com/portfolio/luoman?platform=blogger) */;
+background-attachment:scroll;
+background-size:cover;
+-webkit-filter:blur(0px);
+filter:blur(0px);
+height:calc(100% + 2 * 0px);
+left:0px;
+position:absolute;
+top:0px;
+width:calc(100% + 2 * 0px)
+}
+.bg-photo-overlay{
+background:rgba(0,0,0,.26);
+background-size:cover;
+height:480px;
+position:absolute;
+width:100%;
+z-index:2
+}
+.hamburger-menu{
+float:left;
+margin-top:0
+}
+.sticky .hamburger-menu{
+float:none;
+position:absolute
+}
+.search{
+border-bottom:solid 1px rgba(255, 255, 255, 0);
+float:right;
+position:relative;
+-webkit-transition-property:width;
+transition-property:width;
+-webkit-transition-duration:.5s;
+transition-duration:.5s;
+-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
+transition-timing-function:cubic-bezier(.4,0,.2,1);
+z-index:101
+}
+.search .dim-overlay{
+background-color:transparent
+}
+.search form{
+height:36px;
+-webkit-transition-property:border-color;
+transition-property:border-color;
+-webkit-transition-delay:.5s;
+transition-delay:.5s;
+-webkit-transition-duration:.2s;
+transition-duration:.2s;
+-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
+transition-timing-function:cubic-bezier(.4,0,.2,1)
+}
+.search.focused{
+width:calc(100% - 48px)
+}
+.search.focused form{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-flex:1;
+-webkit-flex:1 0 1px;
+-ms-flex:1 0 1px;
+flex:1 0 1px;
+border-color:#ffffff;
+margin-left:-24px;
+padding-left:36px;
+position:relative;
+width:auto
+}
+.item-view .search,.sticky .search{
+right:0;
+float:none;
+margin-left:0;
+position:absolute
+}
+.item-view .search.focused,.sticky .search.focused{
+width:calc(100% - 50px)
+}
+.item-view .search.focused form,.sticky .search.focused form{
+border-bottom-color:#646464
+}
+.centered-top-placeholder.cloned .search form{
+z-index:30
+}
+.search_button{
+-webkit-box-flex:0;
+-webkit-flex:0 0 24px;
+-ms-flex:0 0 24px;
+flex:0 0 24px;
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column
+}
+.search_button svg{
+margin-top:0
+}
+.search-input{
+height:48px
+}
+.search-input input{
+display:block;
+color:#ffffff;
+font:16px Roboto, sans-serif;
+height:48px;
+line-height:48px;
+padding:0;
+width:100%
+}
+.search-input input::-webkit-input-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input::-moz-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input:-ms-input-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input::-ms-input-placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-input input::placeholder{
+color:#ffffff;
+opacity:.3
+}
+.search-action{
+background:0 0;
+border:0;
+color:#ffffff;
+cursor:pointer;
+display:none;
+height:48px;
+margin-top:0
+}
+.sticky .search-action{
+color:#646464
+}
+.search.focused .search-action{
+display:block
+}
+.search.focused .search-action:disabled{
+opacity:.3
+}
+.page_body{
+position:relative;
+z-index:20
+}
+.page_body .widget{
+margin-bottom:16px
+}
+.page_body .centered{
+box-sizing:border-box;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column;
+margin:0 auto;
+max-width:922px;
+min-height:100vh;
+padding:24px 0
+}
+.page_body .centered>*{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.page_body .centered>#footer{
+margin-top:auto
+}
+.blog-name{
+margin:24px 0 16px 0
+}
+.item-view .blog-name,.sticky .blog-name{
+box-sizing:border-box;
+margin-left:36px;
+min-height:48px;
+opacity:1;
+padding-top:12px
+}
+.blog-name .subscribe-section-container{
+margin-bottom:32px;
+text-align:center;
+-webkit-transition-property:opacity;
+transition-property:opacity;
+-webkit-transition-duration:.5s;
+transition-duration:.5s
+}
+.item-view .blog-name .subscribe-section-container,.sticky .blog-name .subscribe-section-container{
+margin:0 0 8px 0
+}
+.blog-name .PageList{
+margin-top:16px;
+padding-top:8px;
+text-align:center
+}
+.blog-name .PageList .overflowable-contents{
+width:100%
+}
+.blog-name .PageList h3.title{
+color:#ffffff;
+margin:8px auto;
+text-align:center;
+width:100%
+}
+.centered-top-container .blog-name{
+-webkit-transition-property:opacity;
+transition-property:opacity;
+-webkit-transition-duration:.5s;
+transition-duration:.5s
+}
+.item-view .return_link{
+margin-bottom:12px;
+margin-top:12px;
+position:absolute
+}
+.item-view .blog-name{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+margin:0 48px 27px 48px
+}
+.item-view .subscribe-section-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.item-view #header,.item-view .Header{
+margin-bottom:5px;
+margin-right:15px
+}
+.item-view .sticky .Header{
+margin-bottom:0
+}
+.item-view .Header p{
+margin:10px 0 0 0;
+text-align:left
+}
+.item-view .post-share-buttons-bottom{
+margin-right:16px
+}
+.sticky{
+background:#ffffff;
+box-shadow:0 0 20px 0 rgba(0,0,0,.7);
+box-sizing:border-box;
+margin-left:0
+}
+.sticky #header{
+margin-bottom:8px;
+margin-right:8px
+}
+.sticky .centered-top{
+margin:4px auto;
+max-width:890px;
+min-height:48px
+}
+.sticky .blog-name{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+margin:0 48px
+}
+.sticky .blog-name #header{
+-webkit-box-flex:0;
+-webkit-flex:0 1 auto;
+-ms-flex:0 1 auto;
+flex:0 1 auto;
+-webkit-box-ordinal-group:2;
+-webkit-order:1;
+-ms-flex-order:1;
+order:1;
+overflow:hidden
+}
+.sticky .blog-name .subscribe-section-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+-webkit-box-ordinal-group:3;
+-webkit-order:2;
+-ms-flex-order:2;
+order:2
+}
+.sticky .Header h1{
+overflow:hidden;
+text-overflow:ellipsis;
+white-space:nowrap;
+margin-right:-10px;
+margin-bottom:-10px;
+padding-right:10px;
+padding-bottom:10px
+}
+.sticky .Header p{
+display:none
+}
+.sticky .PageList{
+display:none
+}
+.search-focused>*{
+visibility:visible
+}
+.search-focused .hamburger-menu{
+visibility:visible
+}
+.item-view .search-focused .blog-name,.sticky .search-focused .blog-name{
+opacity:0
+}
+.centered-bottom,.centered-top-container,.centered-top-placeholder{
+padding:0 16px
+}
+.centered-top{
+position:relative
+}
+.item-view .centered-top.search-focused .subscribe-section-container,.sticky .centered-top.search-focused .subscribe-section-container{
+opacity:0
+}
+.page_body.has-vertical-ads .centered .centered-bottom{
+display:inline-block;
+width:calc(100% - 176px)
+}
+.Header h1{
+color:#ffffff;
+font:bold 45px Roboto, sans-serif;
+line-height:normal;
+margin:0 0 13px 0;
+text-align:center;
+width:100%
+}
+.Header h1 a,.Header h1 a:hover,.Header h1 a:visited{
+color:#ffffff
+}
+.item-view .Header h1,.sticky .Header h1{
+font-size:24px;
+line-height:24px;
+margin:0;
+text-align:left
+}
+.sticky .Header h1{
+color:#646464
+}
+.sticky .Header h1 a,.sticky .Header h1 a:hover,.sticky .Header h1 a:visited{
+color:#646464
+}
+.Header p{
+color:#ffffff;
+margin:0 0 13px 0;
+opacity:.8;
+text-align:center
+}
+.widget .title{
+line-height:28px
+}
+.BlogArchive li{
+font-size:16px
+}
+.BlogArchive .post-count{
+color:#646464
+}
+#page_body .FeaturedPost,.Blog .blog-posts .post-outer-container{
+background:#ffffff;
+min-height:40px;
+padding:30px 40px;
+width:auto
+}
+.Blog .blog-posts .post-outer-container:last-child{
+margin-bottom:0
+}
+.Blog .blog-posts .post-outer-container .post-outer{
+border:0;
+position:relative;
+padding-bottom:.25em
+}
+.post-outer-container{
+margin-bottom:16px
+}
+.post:first-child{
+margin-top:0
+}
+.post .thumb{
+float:left;
+height:20%;
+width:20%
+}
+.post-share-buttons-bottom,.post-share-buttons-top{
+float:right
+}
+.post-share-buttons-bottom{
+margin-right:24px
+}
+.post-footer,.post-header{
+clear:left;
+color:rgba(0,0,0,0.537);
+margin:0;
+width:inherit
+}
+.blog-pager{
+text-align:center
+}
+.blog-pager a{
+color:#f03f0d
+}
+.blog-pager a:visited{
+color:#f03f0d
+}
+.blog-pager a:hover{
+color:#f03f0d
+}
+.post-title{
+font:bold 22px Roboto, sans-serif;
+float:left;
+margin:0 0 8px 0;
+max-width:calc(100% - 48px)
+}
+.post-title a{
+font:bold 30px Roboto, sans-serif
+}
+.post-title,.post-title a,.post-title a:hover,.post-title a:visited{
+color:#000000
+}
+.post-body{
+color:#646464;
+font:15px Roboto, sans-serif;
+line-height:1.6em;
+margin:1.5em 0 2em 0;
+display:block
+}
+.post-body img{
+height:inherit
+}
+.post-body .snippet-thumbnail{
+float:left;
+margin:0;
+margin-right:2em;
+max-height:128px;
+max-width:128px
+}
+.post-body .snippet-thumbnail img{
+max-width:100%
+}
+.main .FeaturedPost .widget-content{
+border:0;
+position:relative;
+padding-bottom:.25em
+}
+.FeaturedPost img{
+margin-top:2em
+}
+.FeaturedPost .snippet-container{
+margin:2em 0
+}
+.FeaturedPost .snippet-container p{
+margin:0
+}
+.FeaturedPost .snippet-thumbnail{
+float:none;
+height:auto;
+margin-bottom:2em;
+margin-right:0;
+overflow:hidden;
+max-height:calc(600px + 2em);
+max-width:100%;
+text-align:center;
+width:100%
+}
+.FeaturedPost .snippet-thumbnail img{
+max-width:100%;
+width:100%
+}
+.byline{
+color:rgba(0,0,0,0.537);
+display:inline-block;
+line-height:24px;
+margin-top:8px;
+vertical-align:top
+}
+.byline.post-author:first-child{
+margin-right:0
+}
+.byline.reactions .reactions-label{
+line-height:22px;
+vertical-align:top
+}
+.byline.post-share-buttons{
+position:relative;
+display:inline-block;
+margin-top:0;
+width:100%
+}
+.byline.post-share-buttons .sharing{
+float:right
+}
+.flat-button.ripple:hover{
+background-color:rgba(240,63,13,.12)
+}
+.flat-button.ripple .splash{
+background-color:rgba(240,63,13,.4)
+}
+a.timestamp-link,a:active.timestamp-link,a:visited.timestamp-link{
+color:inherit;
+font:inherit;
+text-decoration:inherit
+}
+.post-share-buttons{
+margin-left:0
+}
+.clear-sharing{
+min-height:24px
+}
+.comment-link{
+color:#f03f0d;
+position:relative
+}
+.comment-link .num_comments{
+margin-left:8px;
+vertical-align:top
+}
+#comment-holder .continue{
+display:none
+}
+#comment-editor{
+margin-bottom:20px;
+margin-top:20px
+}
+#comments .comment-form h4,#comments h3.title{
+position:absolute;
+clip:rect(1px,1px,1px,1px);
+padding:0;
+border:0;
+height:1px;
+width:1px;
+overflow:hidden
+}
+.post-filter-message{
+background-color:rgba(0,0,0,.7);
+color:#fff;
+display:table;
+margin-bottom:16px;
+width:100%
+}
+.post-filter-message div{
+display:table-cell;
+padding:15px 28px
+}
+.post-filter-message div:last-child{
+padding-left:0;
+text-align:right
+}
+.post-filter-message a{
+white-space:nowrap
+}
+.post-filter-message .search-label,.post-filter-message .search-query{
+font-weight:700;
+color:#f03f0d
+}
+#blog-pager{
+margin:2em 0
+}
+#blog-pager a{
+color:#f03f0d;
+font-size:14px
+}
+.subscribe-button{
+border-color:#ffffff;
+color:#ffffff
+}
+.sticky .subscribe-button{
+border-color:#646464;
+color:#646464
+}
+.tabs{
+margin:0 auto;
+padding:0
+}
+.tabs li{
+margin:0 8px;
+vertical-align:top
+}
+.tabs .overflow-button a,.tabs li a{
+color:#c7c7c7;
+font:700 normal 15px Roboto, sans-serif;
+line-height:18px
+}
+.tabs .overflow-button a{
+padding:12px 8px
+}
+.overflow-popup .tabs li{
+text-align:left
+}
+.overflow-popup li a{
+color:#646464;
+display:block;
+padding:8px 20px
+}
+.overflow-popup li.selected a{
+color:#000000
+}
+a.report_abuse{
+font-weight:400
+}
+.Label li,.Label span.label-size,.byline.post-labels a{
+background-color:#f7f7f7;
+border:1px solid #f7f7f7;
+border-radius:15px;
+display:inline-block;
+margin:4px 4px 4px 0;
+padding:3px 8px
+}
+.Label a,.byline.post-labels a{
+color:rgba(0,0,0,0.537)
+}
+.Label ul{
+list-style:none;
+padding:0
+}
+.PopularPosts{
+background-color:#eaeaea;
+padding:30px 40px
+}
+.PopularPosts .item-content{
+color:#646464;
+margin-top:24px
+}
+.PopularPosts a,.PopularPosts a:hover,.PopularPosts a:visited{
+color:#f03f0d
+}
+.PopularPosts .post-title,.PopularPosts .post-title a,.PopularPosts .post-title a:hover,.PopularPosts .post-title a:visited{
+color:#000000;
+font-size:18px;
+font-weight:700;
+line-height:24px
+}
+.PopularPosts,.PopularPosts h3.title a{
+color:#646464;
+font:15px Roboto, sans-serif
+}
+.main .PopularPosts{
+padding:16px 40px
+}
+.PopularPosts h3.title{
+font-size:14px;
+margin:0
+}
+.PopularPosts h3.post-title{
+margin-bottom:0
+}
+.PopularPosts .byline{
+color:rgba(0,0,0,0.537)
+}
+.PopularPosts .jump-link{
+float:right;
+margin-top:16px
+}
+.PopularPosts .post-header .byline{
+font-size:.9em;
+font-style:italic;
+margin-top:6px
+}
+.PopularPosts ul{
+list-style:none;
+padding:0;
+margin:0
+}
+.PopularPosts .post{
+padding:20px 0
+}
+.PopularPosts .post+.post{
+border-top:1px dashed #c7c7c7
+}
+.PopularPosts .item-thumbnail{
+float:left;
+margin-right:32px
+}
+.PopularPosts .item-thumbnail img{
+height:88px;
+padding:0;
+width:88px
+}
+.inline-ad{
+margin-bottom:16px
+}
+.desktop-ad .inline-ad{
+display:block
+}
+.adsbygoogle{
+overflow:hidden
+}
+.vertical-ad-container{
+float:right;
+margin-right:16px;
+width:128px
+}
+.vertical-ad-container .AdSense+.AdSense{
+margin-top:16px
+}
+.inline-ad-placeholder,.vertical-ad-placeholder{
+background:#ffffff;
+border:1px solid #000;
+opacity:.9;
+vertical-align:middle;
+text-align:center
+}
+.inline-ad-placeholder span,.vertical-ad-placeholder span{
+margin-top:290px;
+display:block;
+text-transform:uppercase;
+font-weight:700;
+color:#000000
+}
+.vertical-ad-placeholder{
+height:600px
+}
+.vertical-ad-placeholder span{
+margin-top:290px;
+padding:0 40px
+}
+.inline-ad-placeholder{
+height:90px
+}
+.inline-ad-placeholder span{
+margin-top:36px
+}
+.Attribution{
+color:#646464
+}
+.Attribution a,.Attribution a:hover,.Attribution a:visited{
+color:#f03f0d
+}
+.Attribution svg{
+fill:#5d5d5d
+}
+.sidebar-container{
+box-shadow:1px 1px 3px rgba(0,0,0,.1)
+}
+.sidebar-container,.sidebar-container .sidebar_bottom{
+background-color:#ffffff
+}
+.sidebar-container .navigation,.sidebar-container .sidebar_top_wrapper{
+background-color:#ffffff
+}
+.sidebar-container .sidebar_top{
+overflow:auto
+}
+.sidebar-container .sidebar_bottom{
+width:100%;
+padding-top:16px
+}
+.sidebar-container .widget:first-child{
+padding-top:0
+}
+.sidebar_top .widget.Profile{
+padding-bottom:16px
+}
+.widget.Profile{
+margin:0;
+width:100%
+}
+.widget.Profile h2{
+display:none
+}
+.widget.Profile h3.title{
+color:rgba(0,0,0,0.518);
+margin:16px 32px
+}
+.widget.Profile .individual{
+text-align:center
+}
+.widget.Profile .individual .profile-link{
+padding:1em
+}
+.widget.Profile .individual .default-avatar-wrapper .avatar-icon{
+margin:auto
+}
+.widget.Profile .team{
+margin-bottom:32px;
+margin-left:32px;
+margin-right:32px
+}
+.widget.Profile ul{
+list-style:none;
+padding:0
+}
+.widget.Profile li{
+margin:10px 0
+}
+.widget.Profile .profile-img{
+border-radius:50%;
+float:none
+}
+.widget.Profile .profile-link{
+color:#000000;
+font-size:.9em;
+margin-bottom:1em;
+opacity:.87;
+overflow:hidden
+}
+.widget.Profile .profile-link.visit-profile{
+border-style:solid;
+border-width:1px;
+border-radius:12px;
+cursor:pointer;
+font-size:12px;
+font-weight:400;
+padding:5px 20px;
+display:inline-block;
+line-height:normal
+}
+.widget.Profile dd{
+color:rgba(0,0,0,0.537);
+margin:0 16px
+}
+.widget.Profile location{
+margin-bottom:1em
+}
+.widget.Profile .profile-textblock{
+font-size:14px;
+line-height:24px;
+position:relative
+}
+body.sidebar-visible .page_body{
+overflow-y:scroll
+}
+body.sidebar-visible .bg-photo-container{
+overflow-y:scroll
+}
+@media screen and (min-width:1440px){
+.sidebar-container{
+margin-top:480px;
+min-height:calc(100% - 480px);
+overflow:visible;
+z-index:32
+}
+.sidebar-container .sidebar_top_wrapper{
+background-color:#f4f4f4;
+height:480px;
+margin-top:-480px
+}
+.sidebar-container .sidebar_top{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+height:480px;
+-webkit-box-orient:horizontal;
+-webkit-box-direction:normal;
+-webkit-flex-direction:row;
+-ms-flex-direction:row;
+flex-direction:row;
+max-height:480px
+}
+.sidebar-container .sidebar_bottom{
+max-width:284px;
+width:284px
+}
+body.collapsed-header .sidebar-container{
+z-index:15
+}
+.sidebar-container .sidebar_top:empty{
+display:none
+}
+.sidebar-container .sidebar_top>:only-child{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+-webkit-align-self:center;
+-ms-flex-item-align:center;
+align-self:center;
+width:100%
+}
+.sidebar_top_wrapper.no-items{
+display:none
+}
+}
+.post-snippet.snippet-container{
+max-height:120px
+}
+.post-snippet .snippet-item{
+line-height:24px
+}
+.post-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+background:linear-gradient(to left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+color:#646464;
+height:24px
+}
+.popular-posts-snippet.snippet-container{
+max-height:72px
+}
+.popular-posts-snippet .snippet-item{
+line-height:24px
+}
+.PopularPosts .popular-posts-snippet .snippet-fade{
+color:#646464;
+height:24px
+}
+.main .popular-posts-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#eaeaea 0,#eaeaea 20%,rgba(234, 234, 234, 0) 100%);
+background:linear-gradient(to left,#eaeaea 0,#eaeaea 20%,rgba(234, 234, 234, 0) 100%)
+}
+.sidebar_bottom .popular-posts-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+background:linear-gradient(to left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%)
+}
+.profile-snippet.snippet-container{
+max-height:192px
+}
+.has-location .profile-snippet.snippet-container{
+max-height:144px
+}
+.profile-snippet .snippet-item{
+line-height:24px
+}
+.profile-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+background:linear-gradient(to left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+color:rgba(0,0,0,0.537);
+height:24px
+}
+@media screen and (min-width:1440px){
+.profile-snippet .snippet-fade{
+background:-webkit-linear-gradient(left,#f4f4f4 0,#f4f4f4 20%,rgba(244, 244, 244, 0) 100%);
+background:linear-gradient(to left,#f4f4f4 0,#f4f4f4 20%,rgba(244, 244, 244, 0) 100%)
+}
+}
+@media screen and (max-width:800px){
+.blog-name{
+margin-top:0
+}
+body.item-view .blog-name{
+margin:0 48px
+}
+.centered-bottom{
+padding:8px
+}
+body.item-view .centered-bottom{
+padding:0
+}
+.page_body .centered{
+padding:10px 0
+}
+body.item-view #header,body.item-view .widget.Header{
+margin-right:0
+}
+body.collapsed-header .centered-top-container .blog-name{
+display:block
+}
+body.collapsed-header .centered-top-container .widget.Header h1{
+text-align:center
+}
+.widget.Header header{
+padding:0
+}
+.widget.Header h1{
+font-size:24px;
+line-height:24px;
+margin-bottom:13px
+}
+body.item-view .widget.Header h1{
+text-align:center
+}
+body.item-view .widget.Header p{
+text-align:center
+}
+.blog-name .widget.PageList{
+padding:0
+}
+body.item-view .centered-top{
+margin-bottom:5px
+}
+.search-action,.search-input{
+margin-bottom:-8px
+}
+.search form{
+margin-bottom:8px
+}
+body.item-view .subscribe-section-container{
+margin:5px 0 0 0;
+width:100%
+}
+#page_body.section div.widget.FeaturedPost,div.widget.PopularPosts{
+padding:16px
+}
+div.widget.Blog .blog-posts .post-outer-container{
+padding:16px
+}
+div.widget.Blog .blog-posts .post-outer-container .post-outer{
+padding:0
+}
+.post:first-child{
+margin:0
+}
+.post-body .snippet-thumbnail{
+margin:0 3vw 3vw 0
+}
+.post-body .snippet-thumbnail img{
+height:20vw;
+width:20vw;
+max-height:128px;
+max-width:128px
+}
+div.widget.PopularPosts div.item-thumbnail{
+margin:0 3vw 3vw 0
+}
+div.widget.PopularPosts div.item-thumbnail img{
+height:20vw;
+width:20vw;
+max-height:88px;
+max-width:88px
+}
+.post-title{
+line-height:1
+}
+.post-title,.post-title a{
+font-size:20px
+}
+#page_body.section div.widget.FeaturedPost h3 a{
+font-size:22px
+}
+.mobile-ad .inline-ad{
+display:block
+}
+.page_body.has-vertical-ads .vertical-ad-container,.page_body.has-vertical-ads .vertical-ad-container ins{
+display:none
+}
+.page_body.has-vertical-ads .centered .centered-bottom,.page_body.has-vertical-ads .centered .centered-top{
+display:block;
+width:auto
+}
+div.post-filter-message div{
+padding:8px 16px
+}
+}
+@media screen and (min-width:1440px){
+body{
+position:relative
+}
+body.item-view .blog-name{
+margin-left:48px
+}
+.page_body{
+margin-left:284px
+}
+.search{
+margin-left:0
+}
+.search.focused{
+width:100%
+}
+.sticky{
+padding-left:284px
+}
+.hamburger-menu{
+display:none
+}
+body.collapsed-header .page_body .centered-top-container{
+padding-left:284px;
+padding-right:0;
+width:100%
+}
+body.collapsed-header .centered-top-container .search.focused{
+width:100%
+}
+body.collapsed-header .centered-top-container .blog-name{
+margin-left:0
+}
+body.collapsed-header.item-view .centered-top-container .search.focused{
+width:calc(100% - 50px)
+}
+body.collapsed-header.item-view .centered-top-container .blog-name{
+margin-left:40px
+}
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body#layout .hidden,
+body#layout .invisible {
+display: inherit;
+}
+body#layout .navigation {
+display: none;
+}
+body#layout .page,
+body#layout .sidebar_top,
+body#layout .sidebar_bottom {
+display: inline-block;
+left: inherit;
+position: relative;
+vertical-align: top;
+}
+body#layout .page {
+float: right;
+margin-left: 20px;
+width: 55%;
+}
+body#layout .sidebar-container {
+float: right;
+width: 40%;
+}
+body#layout .hamburger-menu {
+display: none;
+}
+--></style>
+<style>
+    .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1KH22PlFqsiVYxboQNAoJjYmRbw5M4REHmdJbHT5M2x9zVMGrCqwSjZvaQW_A10KPc6Il);}
+    
+@media (max-width: 480px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1KH22PlFqsiVYxboQNAoJjYmRbw5M4REHmdJbHT5M2x9zVMGrCqwSjZvaQW_A10KPc6Il&options=w480);}}
+@media (max-width: 640px) and (min-width: 481px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1KH22PlFqsiVYxboQNAoJjYmRbw5M4REHmdJbHT5M2x9zVMGrCqwSjZvaQW_A10KPc6Il&options=w640);}}
+@media (max-width: 800px) and (min-width: 641px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1KH22PlFqsiVYxboQNAoJjYmRbw5M4REHmdJbHT5M2x9zVMGrCqwSjZvaQW_A10KPc6Il&options=w800);}}
+@media (max-width: 1200px) and (min-width: 801px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1KH22PlFqsiVYxboQNAoJjYmRbw5M4REHmdJbHT5M2x9zVMGrCqwSjZvaQW_A10KPc6Il&options=w1200);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { .bg-photo {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1KH22PlFqsiVYxboQNAoJjYmRbw5M4REHmdJbHT5M2x9zVMGrCqwSjZvaQW_A10KPc6Il&options=w1600);}}
+  </style>
+<script async='async' src='https://www.gstatic.com/external_hosted/clipboardjs/clipboard.min.js'></script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=161143313025306101&amp;zx=02a061fc-049f-4b99-9b23-309fbe705306' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=161143313025306101&amp;zx=02a061fc-049f-4b99-9b23-309fbe705306' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&family=Roboto&family=Poppins&family=PT+Serif"></head>
+<body class='item-view version-1-3-3 variant-indie_light'>
+<a class='skip-navigation' href='#main' tabindex='0'>
+Skip to main content
+</a>
+<div class='page'>
+<div class='bg-photo-overlay'></div>
+<div class='bg-photo-container'>
+<div class='bg-photo'></div>
+</div>
+<div class='page_body'>
+<div class='centered'>
+<div class='centered-top-placeholder'></div>
+<header class='centered-top-container' role='banner'>
+<div class='centered-top'>
+<a class='return_link' href='https://skillmcqanswers.blogspot.com/?m=1'>
+<button class='svg-icon-24-button back-button rtl-reversible-icon flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_arrow_back_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</button>
+</a>
+<div class='search'>
+<button aria-label='Search' class='search-expand touch-icon-button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24 search-expand-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_search_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='section' id='search_top' name='Search (Top)'><div class='widget BlogSearch' data-version='2' id='BlogSearch1'>
+<h3 class='title'>
+Search This Blog
+</h3>
+<div class='widget-content' role='search'>
+<form action='https://skillmcqanswers.blogspot.com/search' target='_top'>
+<div class='search-input'>
+<input aria-label='Search this blog' autocomplete='off' name='q' placeholder='Search this blog' value=''/>
+</div>
+<input class='search-action flat-button' type='submit' value='Search'/>
+</form>
+</div>
+</div></div>
+</div>
+<div class='clearboth'></div>
+<div class='blog-name container'>
+<div class='container section' id='header' name='Header'><div class='widget Header' data-version='2' id='Header1'>
+<div class='header-widget'>
+<div>
+<h1>
+<a href='https://skillmcqanswers.blogspot.com/?m=1'>
+MCQ Answers
+</a>
+</h1>
+</div>
+<p>
+Guiding the students when they are stuck in practicing the answers
+</p>
+</div>
+</div></div>
+<nav role='navigation'>
+<div class='clearboth no-items section' id='page_list_top' name='Page List (Top)'>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<div>
+<div class='vertical-ad-container no-items section' id='ads' name='Ads'>
+</div>
+<main class='centered-bottom' id='main' role='main' tabindex='-1'>
+<div class='main section' id='page_body' name='Page Body'>
+<div class='widget Blog' data-version='2' id='Blog1'>
+<div class='blog-posts hfeed container'>
+<article class='post-outer-container'>
+<div class='post-outer'>
+<div class='post'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html"
+  },
+  "headline": "18-01-2022 Answers","description": "1. If (a+b):(b+c):(c+a) \u003d 5:6:9 and a+b+c\u003d10, what is the value of c? Answer: 5 Solution: Let a+b\u003d5x, then b+c\u003d6x and c+a\u003d9x, Adding 2(a+b+c...","datePublished": "2022-01-18T06:02:00-08:00",
+  "dateModified": "2022-01-18T06:02:28-08:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/w1200/",
+    "height": 348,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Answers for MCQ"
+  }
+}</script>
+<a name='2657492490282019553'></a>
+<h3 class='post-title entry-title'>
+18-01-2022 Answers
+</h3>
+<div class='post-share-buttons post-share-buttons-top'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-2657492490282019553' class='sharing' data-title='18-01-2022 Answers'>
+<button aria-controls='sharing-popup-Blog1-byline-2657492490282019553' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-2657492490282019553' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-2657492490282019553' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=facebook' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Twitter' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=twitter' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to Twitter'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Twitter</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=pinterest' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=email' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+<meta content='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html'/>
+<a class='timestamp-link' href='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2022-01-18T06:02:00-08:00' title='2022-01-18T06:02:00-08:00'>
+January 18, 2022
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='post-body entry-content float-container' id='post-body-2657492490282019553'>
+<p>1. If (a+b):(b+c):(c+a) = 5:6:9 and a+b+c=10, what is the value of c?</p><p>Answer: 5</p><p>Solution: Let a+b=5x, then b+c=6x and c+a=9x,</p><p>Adding 2(a+b+c) = 20x,</p><p>As a+b+c=10, 20=20x and so x=1.</p><p>Now as a+b=5x=5, c=(a+b+c)-(b+c) = 10-5 = 5</p><p><br /></p><p>2. A sum triples in 15 years at simple interest. Find the rate of interest per annum.</p><p>Answer: 13.33% per annum</p><p>Solution: Let amount be x. When tripled it is 3x.</p><p>x*15*r/100 = 2x,</p><p>r=200/15 = 13.33%</p><p><br /></p><p>3. Mr. Manish invested Rs. 25,000 in two fixed deposits X and Y offering compound interest at 6% per annum and 8% per annum respectively. If the total amount of interest accrued in two years through both fixed deposits is Rs. 3518, the amount invested in Scheme X is</p><p>Answer: Rs.15000</p><p>Solution: Let amount A be invested in scheme X and 25000-A in scheme Y.</p><p>A*(1 + 6/100)^2 + (25000-A) * (1 + 8/100)^2 = 25000+3518,</p><p>1.1236A + (25000-A)*1.1664 = 28518</p><p>Solving A = 15000&nbsp;</p><p><br /></p><p>4. 3 men finish painting a wall in 8 days. Four boys do the same job in 7 days. In how many days will 2 men and 2 boys working together paint two such walls of the same size?&nbsp;</p><p>Answer: 12 and 12/13 days</p><p>Solution: Let work to paint a wall be x.</p><p>1 men in 1 day can do x/(3*8) = x/24.</p><p>1 boy in 1 day can do x/(4*7) = x/28.</p><p>Amount of work done by 2 men and 2 boys in one day = 2*x/24 + 2*x/28</p><p>Work to be done = 2x (As two walls are to be painted).</p><p>So days required = 2x / (2x/24 + 2x/28)&nbsp; = 168/13&nbsp; = 12&nbsp; and 12/13 days</p><p><br /></p><p>5. A started a business investing certain amount. B joined the business after 3 months by investing same amount as A. At the end of one year received 10% of the net profit of the company as he was also managing the company operations. If in a year B received Rs.81000 as profit, what was the net profit of the company?</p><p>Answer: Rs.210000</p><p>Solution: Let the amount invested by A and B be x and the net profit be p.</p><p>Ratio of A:B investment = 12x:9x.</p><p>90% of the profit is to be shared between A and B based on their investment ratio.</p><p>B's share = 0.9p * 9x/(12x+9x) = 0.9p * 9/21 = 81000,</p><p>Net profit = 210000</p><p><br /></p><p>6. A lab technician has one solution that is 60% chlorinated and another that is 40% chlorinated. How much litres of 40% chlorinated solution is needed to make a 100 litres solution that is 50% chlorine?</p><p>Answer: 50 litres</p><p>Solution: Quantity of 40% : Quantity of 60% = (60-50)/(50-40) = 1:1</p><p>Hence 100L will contain 50L of each solution</p><p><br /></p><p>7. A person travels from X to Y at a speed of 40 kmph and returns by increasing his speed by 50%. What is his average speed for both the trips?</p><p>Answer: 48 kmph</p><p>Solution: Average speed = 2xy/(x+y) where x is onward journey speed and y is return journey speed.</p><p>x=40 kmph y=40*1.5 = 60 kmph</p><p>Avg speed = 2*40*60/(100) = 48 kmph</p><p><br /></p><p>8. Two numbers are such that the square of one is 224 less than eight times the square of the other number. If the numbers are in the ratio 3:4, their sum is</p><p>Answer: 14</p><p>Solution: Let the numbers be 3a and 4a.</p><p>8*9*a^2 - 16*a^2 =&nbsp; 224,</p><p>Solving a=2 or -2</p><p>So their sum is 7a = 14 (which is among the given options)</p><p><br /></p><p>9. Rs.12000 was divided among A,B,C such that A's share is Rs.2000 more than B but Rs.2000 less than C. What is B's share?</p><p>Answer: Rs.2000</p><p>Solution: Let B's share = x.</p><p>A's share = x+2000</p><p>C's share = A's share + 2000 = x+4000.</p><p>Hence x+2000 + x + x + 4000 = 12000.</p><p>x=2000</p><p><br /></p><p>10. If&nbsp; &nbsp;x/6 = y/96, which of the following can possibly be x+y ?</p><p>Answer: 16</p><p>Solution: If a/p = b/q = c/r , then (a+b+c)/(p+q+r).</p><p>The denominator difference is 96-6 = 90.</p><p>when x=1, the ration is 1:6.&nbsp;</p><p>Hence the other fraction having ration same as 1:6 is 15:90.</p><p>So x+y = sum of numerator = 1+15 = 16.</p><p><br /></p><p>11. In what ratio must a grocer mix two varieties of tea worth Rs.50 per kg and Rs.55 per kg so that by selling the mixture at Rs. 57.20 a kg, the gain is 10%?</p><p>Answer: 3:2</p><p>Solution: S.P. of 1 kg of the mixture = Rs. 57.20,</p><p>Gain = 10%.</p><p>So the CP = 57.20 * [100 / (100+10)]</p><p>C.P. of 1 kg of the mixture = Rs.52</p><p>So the mean price is Rs.52,</p><p>Using rule of alligation the required ratio of Rs 50 variety tea and Rs 55 variety tea =&nbsp; (55-52)/(52-50) = 3:2</p><p><br /></p><p>12. A train traveling at 100 kmph overtakes a car traveling at 64 kmph in 40 seconds. What is the length of the train in meters?</p><p>Answer: 400 metres</p><p>Solution: Relative speed = 100-64 = 36kmph = 36*5/18 = 10 m/sec</p><p>Assume the length of the caris negligible as it is not provided.</p><p>Length of train = 40*10 = 400m</p><p><br /></p><p>13. Rs.260 was divided among A,B,C so that 12A=8B=3C. How much did B get?</p><p>Answer: Rs.60</p><p>Solution: A = 2B/3 and C=8B/3</p><p>2B/3 + B + 8B/3 = 260,</p><p>Solving B=60</p><p><br /></p><p>14. The simple interest on a certain amount for 3 years at 14% per annum is Rs.235.20. Find the amount.</p><p>Answer: Rs.560</p><p>Solution: S.I = PNR/100,</p><p>235.20 = P*3*14/100</p><p>Required amount = P = 100 * 235.20 / (3 * 14) = 560</p><p><br /></p><p>15. 20 men and 5 women can do a piece of work in 50 days. 5 men and 10 women can do the same work in 100 days. In how many days can the same work be done by 1 man and 1 woman?</p><p>Answer: 700 days</p><p>Solution: Let the amount of work done by a man be M and woman be W.</p><p>(20M+5W)*50 = (5M+10W)*100</p><p>1000M + 250W = 500M + 1000W,</p><p>500M = 750W,</p><p>M = 1.5W</p><p><br /></p><p>16. Petrol and diesel are mixed in two vessels A and B in the ratio 4:3 and 2:3 respectively.&nbsp; In what ratio, should Petrol and Diesel mixed in these vessels be mixed again to obtain a new mixture in Vessel C so that the mixture contains half petrol and half diesel?</p><p>Answer: 7:5</p><p>Solution: Let the quantity from vessel A be x litres and from B be y litres.</p><p>4x/7 + 2y/5 = 3x/7 + 3y/5,</p><p>x/y = 7/5</p><p><br /></p><p>17. When X liters of fuel was added to a tank that was already one-third full, the tank was filled to 7/9 th of it's capacity. In terms of X, what is the capacity of the tank, in liters?</p><p>Answer: 9X/4</p><p>Solution: Let tank's capacity be C.</p><p>7C/9 - C/3 = X</p><p>C = 9X/4</p><p><br /></p><p>18. A sum was invested at compound interest. The interest for the fourth year was Rs. 500 and the interest for the sixth year was Rs. 605. What was the rate of interest at which the sum was invested?</p><p>Answer: 10%</p><p>Solution: Let the interest be x%.&nbsp;</p><p>Interest for fifth year = Interest for fourth year + x * interest for fourth year.&nbsp; = 500 + 500* x/100 = 500 + 5x</p><p>Interest for sixth year = Interest for fifth year + x * interest for fifth year.</p><p>Hence 605 = 500+5x +&nbsp; (500+5x) * x/100&nbsp;</p><p>=&gt; 500 + 5x + 5*x*x/100 + 5x&nbsp; = 605&nbsp;</p><p>=&gt; 10x + x*x/20 = 105&nbsp;</p><p>=&gt; x*x + 200x - 105* 20 = 0</p><p>=&gt; x*x + 200x - 2100 = 0</p><p>=&gt; (x+210)(x-10) = 0&nbsp;</p><p>As interest is positive x=10. Hence answer is 10%.</p><p><br /></p><p>19. A sum invested for two years yields an interest of Rs.1200 under simple interest and Rs.1260 under compound interest. What is the sum invested?</p><p>Answer: Rs.6000</p><p>Solution: S.I for two years = 1200. Hence S.I for one year = 600.</p><p>The difference between S.I and C.I is Rs.60 which means the interes on this Rs.600 amounts to Rs.60 in one year.</p><p>Hence 600 * R = 60, R=10%.</p><p>Let the overall amount invested be A.</p><p>A * R = 600,</p><p>A * 10/100 = 600, A=6000</p><p><br /></p><p>20. A grocer has 400 kg of coffee in stock, 20 percent of which is decaffeinated. If the grocer buys another 100 kg of coffee of which 60 percent is decaffeinated, what percent, by weight, of the grocer's stock of coffee is decaffeinated?</p><p>Answer: 28%</p><p>Solution: Total decaffeinated coffee = 20% * 400 + 60% *100 = 140 kg</p><p>Hence reqd % = 100 * 140/500 = 28%</p><p><br /></p><p>21. 6 men can cut 12 trees in 8 days working 4 hours per day. In how many days can 12 men cut 48 trees working 8 hours a day?</p><p>Answer: 8 days</p><p>Solution: More men and more hours then less days (Indirect proportion)</p><p>More trees then more days (Direct proportion)</p><p>Days reqd * 12 * 8 * 12 = 8 * 6 * 4 * 48</p><p>Days reqd = 8</p><p><br /></p><p>22. In a 100 m race, A beats B by 10m and C by 14m. In a race of 180m, B will beat C by</p><p>Answer: 8m</p><p>Solution: When B has travelled 90m, C would have travelled 86m.</p><p>Hence distance travelled by C when B has travelled 180m is = 180 * 86/90 = 172m.</p><p>Hence B will beat C by 180-172 = 8m</p><p><br /></p><p>23. What is the distance between Mumbai and Goa if I took one hour more when I travel at 80 kmph than at 90 kmph?</p><p>Answer: 720 kms</p><p>Solution: Let the distance be x kms.</p><p>So x/80 - x/90 = 1</p><p>x = 720 kms.</p><p><br /></p><p>24. Two trains move in the same direction at 50 kmph and 32 kmph respectively. A man in the slower train observes that it takes 15 seconds for the faster train to cross him. What is the length of the faster train?</p><p>Answer: 75 m</p><p>Solution: Relative speed = 50-32 = 18 kmph = 18*5/18 = 5m/sec</p><p>Length = 15*5 = 75</p><p><br /></p><p>25. A truck starts from Bangalore to Delhi at 6am. A bus starts from Bangalore to Delhi at 8am and travels in the same path as the truck. If the speed of truck is 60kmph and that of the bus is 80kmph, at what time will the bus overtake the truck?</p><p>Answer: 2pm</p><p>Solution: Time Taken To Meet = Difference In Distance /&nbsp; Relative Speed</p><p>Difference in distance = Distance travelled by truck from 6am to 8am = 2 * 60 = 120kms</p><p>Relative speed = 80 &#8211; 60 = 20 kmph</p><p>Time taken to meet (overtake) = 120/20 = 6 hrs.</p><p>Hence the bus will overtake the truck at 8am + 6hrs = 2pm.</p><p><br /></p><p>26. Bhuvanesh starts working on a job and works on it for 10 days and completes 40% of the work. To help him complete the work, he employs Kadir and together they work for another 12 days and the work gets completed. In how many days Bhuvanesh alone can complete the work?</p><p>Answer: None of these</p><p>Solution: As Bhuvanesh completes 40% of the work done in 10 days, to complete the entire work he takes 25 days.</p><p>Let us assume Kadir can complete the entire work in y days. Let x be the entire work</p><p>Hence 0.6x = 12 days&nbsp; * (x/25 + x/y )</p><p>Solving, y=100</p><p><br /></p><p>27. Balu is five times as efficient as Dinesh and hence completes a given work in 40 days lesser time when compared to Dinesh. If both of them work together, how many days will they take to complete the work?</p><p>Answer: 8.33 days</p><p>Solution: Let Balu take x days to complete the work. As Balu is thrice as efficient, Dinesh takes 5x days.</p><p>5x-x = 40, so x=10, and 5x=50.</p><p>Let the total work be 50 units (LCM of 10 and 50).</p><p>In one day Dinesh does 50/50 = 1 unit of work and Balu does 50/10 = 5 units of work.</p><p>Together they do 6 units of work.</p><p>Num of days required by both working together = 50/6 = 8.33 days.</p><p><br /></p><p>28. A, B and C can together do a piece of work in 20 days, A can do alone in 50 days and B in 60 days. In how many days can C do it alone?</p><p>Answer: 75 dayS</p><p><br /></p><p>29. Three printing presses, A, B, and C, working together at their respective constant rates, can do a certain printing job in 4 hours. B and C, working together at their respective constant rates, can do the same job in 5 hours. How many hours would it take A, working alone at its constant rate, to do the same job?</p><p>Answer: 20 hours</p><p>Solution: Let total work be 20 units (LCM of 4 and 5).</p><p>Work done by A+B+C in 1 hour = 20/4 = 5 units</p><p>Work done by B+C in 1 hour = 20/5 = 4 units</p><p>Hence work done by A alone in 1 hour = 5-4 = 1 unit</p><p>So A alone will take 20/1 = 20 hours</p><p><br /></p><p>30. Five friends jointly started a business. Three of them were sleeping partners investing certain amount. The working partner received thrice the share of the profit as received by a sleeping partner. If the net profit for a given year in the business is Rs.45000, what was the share of the profit for a working partner?</p><p>Answer: Rs.15000</p><p>Solution: Let the profit share of a sleeping partner be x.</p><p>Profit share of working partner =3x.</p><p>Hence 3*x + 2*3x = 45000, x=5000.</p><p>Profit share of a working partner = 3x = Rs.15000</p><p><br /></p><p>31. A rabbit takes 22 leaps for every 17 leaps of cat and 22 leaps of the rabbit are equal to 17 leaps of the cat. What is the ratio of the speeds of rabbit and cat?</p><p>Answer: 1:1</p><p>Solution: Let rabbit cover a distance of r in a leap and cat cover c in a leap.</p><p>Distance covered in a given time by rabbit = 22r and by cat = 17c</p><p>Given 22r=17c which means they cover same distance in given time.</p><p>Hence the ratio of speeds is 1:1</p><p><br /></p><p>32. A person covers a distance of 60 km in 6 hrs partly on foot at the rate of 4 km/hr and partly on a cycle at 14 km/hr. Find the distance traveled on foot.</p><p>Answer: 2.4 hours</p><p>Solution: Let time taken to travel on foot be x hrs.</p><p>4x + 14(6-x) = 60, x=2.4 hrs</p><p><br /></p><p>33. Fifteen workers working for six hours a day can complete a work in 40 days. Then, how many days will 20 workers working for four hours a day take to complete the same work?</p><p>Answer: 45 days</p><p>Solution: Let the required number of days be x.</p><p>More workers , less days. (Indirect proportion)</p><p>More working hours , less days. (Indirect proportion)</p><p>So 15:20 :: x:40</p><p>And 6:4 :: x:40</p><p>15*6*40 = 20*4*x</p><p>x = 45 days.</p><p><br /></p><p>34. It takes 15 seconds for a train travelling at 60 km/hour to cross entirely another train half its length and travelling in opposite direction at 48 km/hour. It also passes a bridge in 51 seconds. The length of the bridge is</p><p>Answer: 550 m</p><p>Solution: 60 kmph = 60*5/18 = 50/3 m/sec</p><p>48 kmph = 48*5/18 = 40/3 m/sec</p><p>Let the length of trains be 2L and L.</p><p>3L/(50/3 + 40/3) = 15, Solving L=150 m.</p><p>So the longer train's length = 2L = 300m</p><p>Let the length of the bridge be B.</p><p>Also it is given 2L + B = 51 * 50/3,</p><p>300+B = 850, Solving B=550 m</p><p><br /></p><p>35. Four employees at a certain company worked on a project. The amounts of time that the four employees worked on the project were in the ratio 2 to 3 to 5 to 6. If one of the four employees worked on the project for 30 hours, which of the following cannot be the total number of hours that the four employees worked on the project?</p><p>Answer: 178</p><p>Solution: The amount of hours worked be 2x,3x,5x,6x.</p><p>If 2x=30, x=15 and the total = 16x = 240 hours</p><p>If 3x-30, x=10 and the total = 16x = 160 hours</p><p>If 5x=30, x=6 the total = 16x = 96 hours</p><p>If 6x=30, x=5 and the total = 16x = 80 hours</p><p>Hence going through the options 178 is the answer</p><p><br /></p><p>36. Ramesh deposited Rs.5000 at x% and Rs.2000 at x+2% and Rs.1000 at x+3%, which amounted to Rs.10200 after five years at a simple interest. Had the interest being 2% more for each of the amount deposited, how much additional money would Ramesh earn as interest?</p><p>Answer: Rs.800</p><p>Solution: As it is simple interest, the value of x does not matter and hence additional money in 5 years = 2% * (5000+2000+1000) * 5 = Rs.800</p><p><br /></p><p>37. Two farmers Hari and Krishna rented a field for grazing goats. Hari used the field for first 8 months for his 15 goats. Krishna used the field for the remaining period. If the final amount paid as rent for the year was Rs.3000 and Krishna paid Rs.600 less than Hari, how many of Krishna's goats grazed the field?</p><p>Answer: None of these</p><p>Solution: Ans: None of the above (As actual answer is 20 goats.)</p><p>Let amount paid by Hari = x, amount paid by Krishna = x-600,</p><p>x+x-600 = 3000, so Hari paid Rs.1800 and Krishna paid Rs.1200.</p><p>Let the number of Krishna's goats which grazed be x.</p><p>Hence 8 months * 15 :&nbsp; 4 months * x = 1800:1200 = 3:2,</p><p>x = (8*15*2)/(4*3) = 20</p><p><br /></p><p>38. A takes 2 days to complete one-third of a job, B takes 2 days to complete one-sixth of the same work and C takes 4 days to complete half the job. If all of them work together for 2 days and C quits, how long will it take for A and B to complete the remaining work done?.</p><p>Answer: 1 day</p><p>Solution: A takes 6 days to complete the job (as 2 days for one-third), B takes 12 days to complete the job (as 2 days for one-sixth), C takes 8 days.</p><p>Let the amount of work to do the job be 24 units (24 is LCM of 6,12,8).&nbsp;</p><p>In one day, A does 24/6 = 4 units, B does 24/12 = 2 units, C does 24/8 = 3 units.</p><p>So work done by A,B,C in 2 days = 2*(4+2+3) = 18 units.</p><p>Work remaining after 2 days = 24-18 = 6 units. Hence A and B will take 6/(4+2) = 1 day.</p><p><br /></p><p>39. A can complete a piece of work in 8 hours, B can complete the same in 10 hours and C in 12 hours. A,B,C start the work together but&nbsp; A leaves after 2 hours. Find the time taken by B and C to complete the remaining work?</p><p>Answer: 2 (1/11) hours</p><p>Solution: Let the total work be 120 units (LCM of 8,10,12).</p><p>In 1 hour A can do = 120/8 = 15 units , B=12 units and C=10 units.</p><p>All three start the work. In 2 hrs they complete 2*(15+12+10) = 74 units.</p><p>Now A leaves. Remaining work = 120-74 = 46 units.</p><p>B and c can do 22 units per hour.</p><p>So time taken = 46/22 = 2 (1/11) hours.</p><p><br /></p><p>40. A sum of Rs.90 is made of 200 coins which are either 25 paise coins or 50 paise coins. The number of 25 paise coins is</p><p>Answer: 40</p><p>Solution: Average paise per coin = 9000/200 = 45</p><p>Using rule of alligation, ratio of number of 25 paise/50 paise = (50-45)/(45-25) = 5/20 = 1/4</p><p>Number of 25 paise coins = 200*1/5 = 40</p>
+</div>
+<div class='post-bottom'>
+<div class='post-footer float-container'>
+<div class='post-footer-line post-footer-line-1'>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+</div>
+</div>
+<div class='post-share-buttons post-share-buttons-bottom invisible'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-byline-2657492490282019553' class='sharing' data-title='18-01-2022 Answers'>
+<button aria-controls='sharing-popup-Blog1-byline-2657492490282019553' aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-Blog1-byline-2657492490282019553' role='button'>
+<div class='flat-icon-button ripple'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_share_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Share' class='share-buttons hidden' id='sharing-popup-Blog1-byline-2657492490282019553' role='menu'>
+<li>
+<span aria-label='Get link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Get link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Get link</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=facebook' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Twitter' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=twitter' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to Twitter'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Twitter</span>
+</span>
+</li>
+<li>
+<span aria-label='Share to Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=pinterest' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=161143313025306101&postID=2657492490282019553&target=email' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Share to other apps' class='sharing-platform-button sharing-element-other' data-url='https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m=1' role='menuitem' tabindex='-1' title='Share to other apps'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Other Apps</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class='comments threaded' data-embed='true' data-num-comments='2' id='comments'>
+<a name='comments'></a>
+<h3 class='title'>Comments</h3>
+<div class='comments-content'>
+<script async='async' src='' type='text/javascript'></script>
+<script type='text/javascript'>(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+var ba=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},n="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a},ca=function(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");
+},r=ca(this),t=function(a,b){if(b)a:{var c=r;a=a.split(".");for(var e=0;e<a.length-1;e++){var d=a[e];if(!(d in c))break a;c=c[d]}a=a[a.length-1];e=c[a];b=b(e);b!=e&&null!=b&&n(c,a,{configurable:!0,writable:!0,value:b})}};
+t("Symbol",function(a){if(a)return a;var b=function(g,p){this.$jscomp$symbol$id_=g;n(this,"description",{configurable:!0,writable:!0,value:p})};b.prototype.toString=function(){return this.$jscomp$symbol$id_};var c="jscomp_symbol_"+(1E9*Math.random()>>>0)+"_",e=0,d=function(g){if(this instanceof d)throw new TypeError("Symbol is not a constructor");return new b(c+(g||"")+"_"+e++,g)};return d});
+t("Symbol.iterator",function(a){if(a)return a;a=Symbol("Symbol.iterator");for(var b="Array Int8Array Uint8Array Uint8ClampedArray Int16Array Uint16Array Int32Array Uint32Array Float32Array Float64Array".split(" "),c=0;c<b.length;c++){var e=r[b[c]];"function"===typeof e&&"function"!=typeof e.prototype[a]&&n(e.prototype,a,{configurable:!0,writable:!0,value:function(){return da(ba(this))}})}return a});
+var da=function(a){a={next:a};a[Symbol.iterator]=function(){return this};return a},ea=function(a,b){a instanceof String&&(a+="");var c=0,e=!1,d={next:function(){if(!e&&c<a.length){var g=c++;return{value:b(g,a[g]),done:!1}}e=!0;return{done:!0,value:void 0}}};d[Symbol.iterator]=function(){return d};return d};t("Array.prototype.entries",function(a){return a?a:function(){return ea(this,function(b,c){return[b,c]})}});
+var v=this||self,w=function(a,b){function c(){}c.prototype=b.prototype;a.superClass_=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.base=function(e,d,g){for(var p=Array(arguments.length-2),q=2;q<arguments.length;q++)p[q-2]=arguments[q];return b.prototype[d].apply(e,p)}},x=function(a){return a};function y(a,b){if(Error.captureStackTrace)Error.captureStackTrace(this,y);else{var c=Error().stack;c&&(this.stack=c)}a&&(this.message=String(a));void 0!==b&&(this.cause=b)}w(y,Error);y.prototype.name="CustomError";function z(a,b){a=a.split("%s");for(var c="",e=a.length-1,d=0;d<e;d++)c+=a[d]+(d<b.length?b[d]:"%s");y.call(this,c+a[e])}w(z,y);z.prototype.name="AssertionError";var A=function(a,b){throw new z("Failure"+(a?": "+a:""),Array.prototype.slice.call(arguments,1));};var E;var G=function(a,b){this.privateDoNotAccessOrElseTrustedResourceUrlWrappedValue_=b===F?a:""};G.prototype.toString=function(){return this.privateDoNotAccessOrElseTrustedResourceUrlWrappedValue_+""};var F={};var fa=function(){var a=document;var b="SCRIPT";"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)};var H=function(a,b){this.name=a;this.value=b};H.prototype.toString=function(){return this.name};var I=new H("OFF",Infinity),ha=new H("WARNING",900),ia=new H("CONFIG",700),J=function(){this.capacity_=0;this.clear()},K;J.prototype.clear=function(){this.buffer_=Array(this.capacity_);this.curIndex_=-1;this.isFull_=!1};var L=function(a,b,c){this.reset(a||I,b,c,void 0,void 0)};L.prototype.reset=function(){};
+var M=function(a,b){this.level=null;this.handlers=[];this.parent=(void 0===b?null:b)||null;this.children=[];this.logger={getName:function(){return a}}},O=function(a){if(a.level)return a.level;if(a.parent)return O(a.parent);A("Root logger has no level set.");return I},ja=function(a,b){for(;a;)a.handlers.forEach(function(c){c(b)}),a=a.parent},ka=function(){this.entries={};var a=new M("");a.level=ia;this.entries[""]=a},P,Q=function(a,b){var c=a.entries[b];if(c)return c;c=Q(a,b.slice(0,Math.max(b.lastIndexOf("."),
+0)));var e=new M(b,c);a.entries[b]=e;c.children.push(e);return e},R=function(){P||(P=new ka);return P};/*
+
+ SPDX-License-Identifier: Apache-2.0
+*/
+var S=[],T=function(a){var b;if(b=Q(R(),"safevalues").logger){var c="A URL with content '"+a+"' was sanitized away.",e=ha;if(a=b)if(a=b&&e){a=e.value;var d=b?O(Q(R(),b.getName())):I;a=a>=d.value}if(a){e=e||I;a=Q(R(),b.getName());"function"===typeof c&&(c=c());K||(K=new J);d=K;b=b.getName();if(0<d.capacity_){var g=(d.curIndex_+1)%d.capacity_;d.curIndex_=g;d.isFull_?(d=d.buffer_[g],d.reset(e,c,b),b=d):(d.isFull_=g==d.capacity_-1,b=d.buffer_[g]=new L(e,c,b))}else b=new L(e,c,b);ja(a,b)}}};
+-1===S.indexOf(T)&&S.push(T);function la(a,b){if(b instanceof G&&b.constructor===G)b=b.privateDoNotAccessOrElseTrustedResourceUrlWrappedValue_;else{var c=typeof b;A("expected object of type TrustedResourceUrl, got '"+b+"' of type "+("object"!=c?c:b?Array.isArray(b)?"array":c:"null"));b="type_error:TrustedResourceUrl"}a.src=b;var e,d;(e=(b=null==(d=(e=(a.ownerDocument&&a.ownerDocument.defaultView||window).document).querySelector)?void 0:d.call(e,"script[nonce]"))?b.nonce||b.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",
+e)};function ma(a){a=null===a?"null":void 0===a?"undefined":a;if("string"!==typeof a)throw Error("Expected a string");if(void 0===E){var b=null;var c=v.trustedTypes;if(c&&c.createPolicy)try{b=c.createPolicy("goog#html",{createHTML:x,createScript:x,createScriptURL:x})}catch(e){v.console&&v.console.error(e.message)}E=b}a=(b=E)?b.createScriptURL(a):a;return new G(a,F)};var na=function(a,b,c){var e=null;a&&0<a.length&&(e=parseInt(a[a.length-1].timestamp,10)+1);var d=null,g=null,p=void 0,q=null,B=(window.location.hash||"#").substring(1),X,Y;/^comment-form_/.test(B)?X=B.substring(13):/^c[0-9]+$/.test(B)&&(Y=B.substring(1));var oa={id:c.postId,data:a,loadNext:function(l){if(e){var k=c.feed+"?alt=json&v=2&orderby=published&reverse=false&max-results=50";e&&(k+="&published-min="+(new Date(e)).toISOString());window.bloggercomments=function(C){e=null;var u=[];if(C&&C.feed&&
+C.feed.entry)for(var f,Z=0;f=C.feed.entry[Z];Z++){var m={},h=/blog-(\d+).post-(\d+)/.exec(f.id.$t);m.id=h?h[2]:null;a:{h=void 0;var aa=f&&(f.content&&f.content.$t||f.summary&&f.summary.$t)||"";if(f&&f.gd$extendedProperty)for(h in f.gd$extendedProperty)if("blogger.contentRemoved"==f.gd$extendedProperty[h].name){h='<span class="deleted-comment">'+aa+"</span>";break a}h=aa}m.body=h;m.timestamp=Date.parse(f.published.$t)+"";f.author&&f.author.constructor===Array&&(h=f.author[0])&&(m.author={name:h.name?
+h.name.$t:void 0,profileUrl:h.uri?h.uri.$t:void 0,avatarUrl:h.gd$image?h.gd$image.src:void 0});f.link&&(f.link[2]&&(m.link=m.permalink=f.link[2].href),f.link[3]&&(h=/.*comments\/default\/(\d+)\?.*/.exec(f.link[3].href))&&h[1]&&(m.parentId=h[1]));m.deleteclass="item-control blog-admin";if(f.gd$extendedProperty)for(var D in f.gd$extendedProperty)"blogger.itemClass"==f.gd$extendedProperty[D].name?m.deleteclass+=" "+f.gd$extendedProperty[D].value:"blogger.displayTime"==f.gd$extendedProperty[D].name&&
+(m.displayTime=f.gd$extendedProperty[D].value);u.push(m)}e=50>u.length?null:parseInt(u[u.length-1].timestamp,10)+1;l(u);window.bloggercomments=null};var N=fa();N.type="text/javascript";la(N,ma(k+"&callback=bloggercomments"));document.getElementsByTagName("head")[0].appendChild(N)}},hasMore:function(){return!!e},getMeta:function(l,k){return"iswriter"==l?k.author&&k.author.name==c.authorName&&k.author.profileUrl==c.authorUrl?"true":"":"deletelink"==l?c.baseUri+"/delete-comment.g?blogID="+c.blogId+"&postID="+
+k.id:"deleteclass"==l?k.deleteclass:""},onReply:function(l,k){null==d&&(d=document.getElementById("comment-editor"),null!=d&&(q=d.style.height,d.style.display="block",g=d.src.split("#")));d&&l&&l!==p&&(document.getElementById(k).insertBefore(d,null),k=g[0]+(l?"&parentID="+l:""),g[1]&&(k=k+"#"+g[1]),d.src=k,d.style.height=q||d.style.height,p=l,d.removeAttribute("data-resized"),d.dispatchEvent(new Event("iframeMoved")))},rendered:!0,initComment:Y,initReplyThread:X,config:{maxDepth:c.maxThreadDepth},
+messages:b};a=function(){if(window.goog&&window.goog.comments){var l=document.getElementById("comment-holder");window.goog.comments.render(l,oa)}};window.goog&&window.goog.comments?a():(window.goog=window.goog||{},window.goog.comments=window.goog.comments||{},window.goog.comments.loadQueue=window.goog.comments.loadQueue||[],window.goog.comments.loadQueue.push(a))},U=["blogger","widgets","blog","initThreadedComments"],V=v;U[0]in V||"undefined"==typeof V.execScript||V.execScript("var "+U[0]);
+for(var W;U.length&&(W=U.shift());)U.length||void 0===na?V=V[W]&&V[W]!==Object.prototype[W]?V[W]:V[W]={}:V[W]=na;}).call(this);
+</script>
+<script type='text/javascript'>
+    blogger.widgets.blog.initThreadedComments(
+        null,
+        null,
+        {});
+  </script>
+<div id='comment-holder'>
+<div class="comment-thread toplevel-thread"><ol id="top-ra"><li class="comment" id="c2063029057371255564"><div class="avatar-image-container"><img src="//www.blogger.com/img/blogger_logo_round_35.png" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/17937758038440059518" rel="nofollow">Unknown</a></cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?showComment=1661266013496&amp;m=1#c2063029057371255564">August 23, 2022 at 7:46&#8239;AM</a></span></div><p class="comment-content">Punjab Public Service Commission PPSC Past Papers MCQs Solved (All Departments) held in 2023, 2022, 2021, 2020, 2019, 2018 [Complete Edition] Avaialbe at: https://www.jobspastpapers.com/</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="2063029057371255564">Reply</a><span class="item-control blog-admin blog-admin pid-1568050992"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=161143313025306101&amp;postID=2063029057371255564">Delete</a></span></span></div><div class="comment-replies"><div id="c2063029057371255564-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Replies</a></span></span><ol id="c2063029057371255564-ra" class="thread-chrome thread-expanded"><div></div><div id="c2063029057371255564-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="2063029057371255564">Reply</a></div></ol></div></div><div class="comment-replybox-single" id="c2063029057371255564-ce"></div></li><li class="comment" id="c1641228560011577711"><div class="avatar-image-container"><img src="//resources.blogblog.com/img/blank.gif" alt=""/></div><div class="comment-block"><div class="comment-header"><cite class="user">Anonymous</cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?showComment=1666631550289&amp;m=1#c1641228560011577711">October 24, 2022 at 10:12&#8239;AM</a></span></div><p class="comment-content"><a href="https://mcqwiz.blogspot.com/" rel="nofollow">MCQwiz</a><a href="https://mcqwiz.blogspot.com/2022/10/problems-on-trains-arithmetic-aptitude.html" rel="nofollow">Problems on Trains</a></p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="1641228560011577711">Reply</a><span class="item-control blog-admin blog-admin pid-2045279420"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=161143313025306101&amp;postID=1641228560011577711">Delete</a></span></span></div><div class="comment-replies"><div id="c1641228560011577711-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Replies</a></span></span><ol id="c1641228560011577711-ra" class="thread-chrome thread-expanded"><div></div><div id="c1641228560011577711-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="1641228560011577711">Reply</a></div></ol></div></div><div class="comment-replybox-single" id="c1641228560011577711-ce"></div></li></ol><div id="top-continue" class="continue"><a class="comment-reply" target="_self">Add comment</a></div><div class="comment-replybox-thread" id="top-ce"></div><div class="loadmore hidden" data-post-id="2657492490282019553"><a target="_self">Load more...</a></div></div>
+</div>
+</div>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<h4 id='comment-post-message'>Post a Comment</h4>
+<a href='https://www.blogger.com/comment/frame/161143313025306101?po=2657492490282019553&hl=en&m=1&skin=contempo' id='comment-editor-src'></a>
+<iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410px' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<script src='https://www.blogger.com/static/v1/jsbin/976584016-comment_from_post_iframe.js' type='text/javascript'></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html');
+    </script>
+</div>
+</p>
+</section>
+</article>
+</div>
+</div><div class='widget PopularPosts' data-version='2' id='PopularPosts1'>
+<h3 class='title'>
+Popular posts from this blog
+</h3>
+<div class='widget-content'>
+<div role='feed'>
+<article class='post' role='article'>
+<h3 class='post-title'><a href='https://skillmcqanswers.blogspot.com/2022/01/20-01-2022-answers.html?m=1'>20-01-2022 Answers</a></h3>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+<meta content='https://skillmcqanswers.blogspot.com/2022/01/20-01-2022-answers.html'/>
+<a class='timestamp-link' href='https://skillmcqanswers.blogspot.com/2022/01/20-01-2022-answers.html?m=1' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2022-01-20T05:56:00-08:00' title='2022-01-20T05:56:00-08:00'>
+January 20, 2022
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='item-content float-container'>
+<div class='popular-posts-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+1. Choose the most logical order of sentences from among the given choices to construct a coherent paragraph.&#160; A. If caught in the act, they were punished, not for the crime, but for allowing themselves to be caught another lash of the whip. B. The bellicose Spartans sacrificed all the finer things in life for military expertise. C. Those fortunate enough to survive babyhood were taken away from their mothers at the age of seven to undergo rigorous military training. D. This consisted mainly of beatings and deprivations of all kinds like going around barefoot in winter, and worse, starvation so that they would be forced to steal food to survive. E. Male children were examined at birth by the city council and those deemed too weak to become soldiers were left to die of exposure. Answer: BECDA 2. Choose the option to fill in the blanks. A man is known ___ the company he keeps. Answer: by 3. Choose the most logical order of sentences from among the given choices to construct a coherent pa
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://skillmcqanswers.blogspot.com/2022/01/20-01-2022-answers.html?m=1'></a>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://skillmcqanswers.blogspot.com/2022/01/20-01-2022-answers.html?m=1' title='20-01-2022 Answers'>
+Read more
+</a>
+</div>
+</div>
+</article>
+<article class='post' role='article'>
+<h3 class='post-title'><a href='https://skillmcqanswers.blogspot.com/2021/09/12-09-2021-answers.html?m=1'>12-09-2021 Answers</a></h3>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-timestamp'>
+<meta content='https://skillmcqanswers.blogspot.com/2021/09/12-09-2021-answers.html'/>
+<a class='timestamp-link' href='https://skillmcqanswers.blogspot.com/2021/09/12-09-2021-answers.html?m=1' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2021-09-12T07:24:00-07:00' title='2021-09-12T07:24:00-07:00'>
+September 12, 2021
+</time>
+</a>
+</span>
+</div>
+</div>
+<div class='item-content float-container'>
+<div class='popular-posts-snippet snippet-container r-snippet-container'>
+<div class='snippet-item r-snippetized'>
+1. The average age of 3 girls is 20 years and their ages are in the proportion 3:5:7. The age of the youngest girl is Answer: 12 years Solution: Sum of ages = 3*20 = 60. Let the ages be 3x,5x,7x, Adding, 15x=60, x=4. Hence youngest girl&#39;s age = 3x = 12 years 2. The numerator and the denominator of a fraction are in the ratio 3 : 4. When both are increased by the same value, the ratio becomes 4 : 5. Which of the following could be the value added? Answer: All of these Solution: Let the numerator be 3x. Then the denominator is 4x. If y be the quantity added, then (3x + y)/(4x + y) = 4/5 (15x + 5y) = (16x + 4y), x = y. So for every value of x there is a value of y. 3. Monthly earnings of two persons are in the ratio 4:5 and their monthly expenses are in the ratio 7:9. If each saves Rs.5000 per month, their respective monthly incomes are Answer: Rs. 40000 and Rs.50000 Solution: Let the monthly incomes be Rs.4x and Rs.5x respectively and monthly expenses be Rs.7y and Rs.9y respectively.
+</div>
+<a class='snippet-fade r-snippet-fade hidden' href='https://skillmcqanswers.blogspot.com/2021/09/12-09-2021-answers.html?m=1'></a>
+</div>
+<div class='jump-link flat-button ripple'>
+<a href='https://skillmcqanswers.blogspot.com/2021/09/12-09-2021-answers.html?m=1' title='12-09-2021 Answers'>
+Read more
+</a>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div></div>
+</main>
+</div>
+<footer class='footer section' id='footer' name='Footer'><div class='widget Attribution' data-version='2' id='Attribution1'>
+<div class='widget-content'>
+<div class='blogger'>
+<a href='https://www.blogger.com' rel='nofollow'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_post_blogger_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+Powered by Blogger
+</a>
+</div>
+<div class='image-attribution'>
+Theme images by <a href="http://www.istockphoto.com/portfolio/luoman?platform=blogger">luoman</a>
+</div>
+</div>
+</div></footer>
+</div>
+</div>
+</div>
+<aside class='sidebar-container container sidebar-invisible' role='complementary'>
+<div class='navigation'>
+<button class='svg-icon-24-button flat-icon-button ripple sidebar-back'>
+<svg class='svg-icon-24'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_arrow_back_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</button>
+</div>
+<div class='sidebar_top_wrapper'>
+<div class='sidebar_top section' id='sidebar_top' name='Sidebar (Top)'><div class='widget Profile' data-version='2' id='Profile1'>
+<div class='wrapper solo'>
+<div class='widget-content individual'>
+<a href='https://www.blogger.com/profile/08037566583206157009' rel='nofollow'>
+<div class='default-avatar-wrapper'>
+<svg class='svg-icon-24 avatar-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_person_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</a>
+<div class='profile-info'>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-link g-profile' href='https://www.blogger.com/profile/08037566583206157009' rel='author nofollow'>
+Answers for MCQ
+</a>
+</dt>
+</dl>
+<a class='profile-link visit-profile pill-button' href='https://www.blogger.com/profile/08037566583206157009' rel='author'>
+Visit profile
+</a>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class='sidebar_bottom section' id='sidebar_bottom' name='Sidebar (Bottom)'><div class='widget PageList' data-version='2' id='PageList2'>
+<div class='widget-content'>
+<ul>
+<li>
+<a href='https://skillmcqanswers.blogspot.com/?m=1'>Home</a>
+</li>
+<li>
+<a href='https://skillmcqanswers.blogspot.com/p/t-c.html?m=1'>T &amp; C</a>
+</li>
+<li>
+<a href='https://skillmcqanswers.blogspot.com/p/privacy-policy.html?m=1'>Privacy Policy</a>
+</li>
+<li>
+<a href='https://skillmcqanswers.blogspot.com/p/disclaimer.html?m=1'>Disclaimer</a>
+</li>
+<li>
+<a href='https://skillmcqanswers.blogspot.com/p/contact-us.html?m=1'>Contact Us</a>
+</li>
+<li>
+<a href='https://skillmcqanswers.blogspot.com/p/about-us.html?m=1'>About Us</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='widget BlogArchive' data-version='2' id='BlogArchive1'>
+<details class='collapsible extendable'>
+<summary>
+<div class='collapsible-title'>
+<h3 class='title'>
+Archive
+</h3>
+<svg class='svg-icon-24 chevron-down'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_more_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<svg class='svg-icon-24 chevron-up'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_less_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</summary>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<div class='first-items'>
+<ul class='flat'>
+<li class='archivedate'>
+<a href='https://skillmcqanswers.blogspot.com/2022/01/?m=1'>January 2022<span class='post-count'>19</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://skillmcqanswers.blogspot.com/2021/12/?m=1'>December 2021<span class='post-count'>27</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://skillmcqanswers.blogspot.com/2021/11/?m=1'>November 2021<span class='post-count'>29</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://skillmcqanswers.blogspot.com/2021/10/?m=1'>October 2021<span class='post-count'>30</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://skillmcqanswers.blogspot.com/2021/09/?m=1'>September 2021<span class='post-count'>27</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://skillmcqanswers.blogspot.com/2021/08/?m=1'>August 2021<span class='post-count'>29</span></a>
+</li>
+<li class='archivedate'>
+<a href='https://skillmcqanswers.blogspot.com/2021/07/?m=1'>July 2021<span class='post-count'>30</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</details>
+</div>
+<div class='widget ReportAbuse' data-version='2' id='ReportAbuse1'>
+<h3 class='title'>
+<a class='report_abuse' href='https://www.blogger.com/go/report-abuse' rel='noopener nofollow' target='_blank'>
+Report Abuse
+</a>
+</h3>
+</div></div>
+</aside>
+<script type="text/javascript" src="https://resources.blogblog.com/blogblog/data/res/3758160979-indie_compiled.js" async="true"></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3104864162-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5qLusHnWyB6bkDydUx-kt2ItYMYQ:1682871627269';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d161143313025306101','//skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m\x3d1','161143313025306101');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '161143313025306101', 'title': 'MCQ Answers', 'url': 'https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m\x3d1', 'canonicalUrl': 'https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html', 'homepageUrl': 'https://skillmcqanswers.blogspot.com/?m\x3d1', 'searchUrl': 'https://skillmcqanswers.blogspot.com/search', 'canonicalHomepageUrl': 'https://skillmcqanswers.blogspot.com/', 'blogspotFaviconUrl': 'https://skillmcqanswers.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': true, 'isMobileRequest': true, 'mobileClass': ' mobile', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22MCQ Answers - Atom\x22 href\x3d\x22https://skillmcqanswers.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22MCQ Answers - RSS\x22 href\x3d\x22https://skillmcqanswers.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22MCQ Answers - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/161143313025306101/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22MCQ Answers - Atom\x22 href\x3d\x22https://skillmcqanswers.blogspot.com/feeds/2657492490282019553/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/51ff9ee79a13b8ae', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '2657492490282019553', 'pageName': '18-01-2022 Answers', 'pageTitle': 'MCQ Answers: 18-01-2022 Answers', 'metaDescription': ''}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Contempo', 'localizedName': 'Contempo', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'indie_light', 'variantId': 'indie_light'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': '18-01-2022 Answers', 'description': '', 'url': 'https://skillmcqanswers.blogspot.com/2022/01/18-01-2022-answers.html?m\x3d1', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 2657492490282019553}}, {'name': 'widgets', 'data': [{'title': 'Search This Blog', 'type': 'BlogSearch', 'sectionId': 'search_top', 'id': 'BlogSearch1'}, {'title': 'MCQ Answers (Header)', 'type': 'Header', 'sectionId': 'header', 'id': 'Header1'}, {'title': '', 'type': 'PageList', 'sectionId': 'sidebar_bottom', 'id': 'PageList2'}, {'type': 'BlogArchive', 'sectionId': 'sidebar_bottom', 'id': 'BlogArchive1'}, {'title': '', 'type': 'ReportAbuse', 'sectionId': 'sidebar_bottom', 'id': 'ReportAbuse1'}, {'title': '', 'type': 'FeaturedPost', 'sectionId': 'page_body', 'id': 'FeaturedPost1', 'postId': '3131377483411821572'}, {'title': 'Blog Posts', 'type': 'Blog', 'sectionId': 'page_body', 'id': 'Blog1', 'posts': [{'id': '2657492490282019553', 'title': '18-01-2022 Answers', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': ''}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'comments', 'label': 'comments'}]}, {'regionName': 'footer2', 'items': [{'name': 'labels', 'label': ''}]}, {'regionName': 'footer3', 'items': [{'name': 'location', 'label': 'Location:'}]}], 'allBylineItems': [{'name': 'share', 'label': ''}, {'name': 'timestamp', 'label': ''}, {'name': 'comments', 'label': 'comments'}, {'name': 'labels', 'label': ''}, {'name': 'location', 'label': 'Location:'}]}, {'title': '', 'type': 'PopularPosts', 'sectionId': 'page_body', 'id': 'PopularPosts1', 'posts': [{'title': '20-01-2022 Answers', 'id': 3131377483411821572}, {'title': '18-01-2022 Answers', 'id': 2657492490282019553}, {'title': '12-09-2021 Answers', 'id': 4298401295365830743}]}, {'type': 'Attribution', 'sectionId': 'footer', 'id': 'Attribution1'}, {'title': 'About Me', 'type': 'Profile', 'sectionId': 'sidebar_top', 'id': 'Profile1'}]}]);
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'search_top', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList2', 'sidebar_bottom', document.getElementById('PageList2'), {'title': '', 'links': [{'isCurrentPage': false, 'href': 'https://skillmcqanswers.blogspot.com/?m\x3d1', 'title': 'Home'}, {'isCurrentPage': false, 'href': 'https://skillmcqanswers.blogspot.com/p/t-c.html?m\x3d1', 'id': '1632719928016415764', 'title': 'T \x26amp; C'}, {'isCurrentPage': false, 'href': 'https://skillmcqanswers.blogspot.com/p/privacy-policy.html?m\x3d1', 'id': '165008677310599136', 'title': 'Privacy Policy'}, {'isCurrentPage': false, 'href': 'https://skillmcqanswers.blogspot.com/p/disclaimer.html?m\x3d1', 'id': '7813190338053708751', 'title': 'Disclaimer'}, {'isCurrentPage': false, 'href': 'https://skillmcqanswers.blogspot.com/p/contact-us.html?m\x3d1', 'id': '1462805293567233652', 'title': 'Contact Us'}, {'isCurrentPage': false, 'href': 'https://skillmcqanswers.blogspot.com/p/about-us.html?m\x3d1', 'id': '4828296287311505455', 'title': 'About Us'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar_bottom', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ReportAbuseView', new _WidgetInfo('ReportAbuse1', 'sidebar_bottom', document.getElementById('ReportAbuse1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'page_body', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'page_body', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/4288230363-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3268905543-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'page_body', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar_top', document.getElementById('Profile1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
